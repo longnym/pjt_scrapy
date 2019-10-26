@@ -15,7 +15,7 @@ class JobsSpider(Spider):
 
         # 20 popular skills
         skills = ['java', 'python', 'r analysis', 'sql', 'hadoop', 'spark', 'c#', 'c++', 'javascript', 'angular', 'node.js', 'linux', 'tensorflow', 'kubernetes', 'docker', 'android', 'ios', 'aws', 'azure', 'kafka']
-
+        
         # 10 largest states
         states = ['California', 'Texas', 'Florida', 'New York', 'Illinois', 'Pennsylvania', 'Ohio', 'Georgia', 'North Carolina', 'Michigan']
 
@@ -41,12 +41,9 @@ class JobsSpider(Spider):
         else:
             total_pages = total_jobs // 50
 
-        cookies = {
-        }
-
         for i in range(0, total_pages):
             url_page = response.url + '&start=' + str(i * 50)
-            yield Request(url=url_page, meta=response.meta, callback=self.parse_page, cookies=cookies)
+            yield Request(url=url_page, meta=response.meta, callback=self.parse_page)
 
     def parse_page(self, response):
         res = response.xpath('//div[contains(@class, "jobsearch-SerpJobCard unifiedRow row result")]')
