@@ -2,6 +2,7 @@ from scrapy import Spider, Request
 from jobs.items import JobsItem
 import re
 import time
+import urllib
 
 class JobsSpider(Spider):
     name = 'jobs_spider'
@@ -21,7 +22,7 @@ class JobsSpider(Spider):
         for level in levels:
             for skill in skills:
                 for state in states:
-                    url = start_url + '?q=' + skill + '&l=' + state + '&explvl=' + level + '_level&radious=100&limit=50'
+                    url = start_url + '?q=' + urllib.parse.quote_plus(skill) + '&l=' + urllib.parse.quote_plus(state) + '&explvl=' + level + '_level&radious=100&limit=50'
                     meta = {'level': level, 'state': state, 'skill': skill}
                     yield Request(url=url, meta=meta, callback=self.parse)
                     
