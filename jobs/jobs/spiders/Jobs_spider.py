@@ -13,7 +13,7 @@ class JobsSpider(Spider):
         levels = ['entry', 'mid', 'senior']
 
         # 20 popular skills
-        skills = ['java', 'python', 'r', 'sql', 'hadoop', 'spark', 'c#', 'c++', 'javascript', 'angular', 'node.js', 'linux', 'tensorflow', 'kubernetes', 'docker', 'android', 'ios', 'aws', 'azure', 'kafka']
+        skills = ['java', 'python', 'r analysis', 'sql', 'hadoop', 'spark', 'c#', 'c++', 'javascript', 'angular', 'node.js', 'linux', 'tensorflow', 'kubernetes', 'docker', 'android', 'ios', 'aws', 'azure', 'kafka']
 
         # 10 largest states
         states = ['California', 'Texas', 'Florida', 'New York', 'Illinois', 'Pennsylvania', 'Ohio', 'Georgia', 'North Carolina', 'Michigan']
@@ -40,9 +40,12 @@ class JobsSpider(Spider):
         else:
             total_pages = total_jobs // 50
 
+        cookies = {
+        }
+
         for i in range(0, total_pages):
             url_page = response.url + '&start=' + str(i * 50)
-            yield Request(url=url_page, meta=response.meta, callback=self.parse_page)
+            yield Request(url=url_page, meta=response.meta, callback=self.parse_page, cookies=cookies)
 
     def parse_page(self, response):
         res = response.xpath('//div[contains(@class, "jobsearch-SerpJobCard unifiedRow row result")]')
@@ -68,15 +71,24 @@ class JobsSpider(Spider):
 
             if 'year' in salary:
                 item['salary_unit'] = 'year'
-                salary = salary.replace(',', '').replace('a year', '').replace(' ','').replace('$', '').replace('++', '')
+                salary = salary.replace('a year', '')
             elif 'hour' in salary:
                 item['salary_unit'] = 'hour'
-                salary = salary.replace(',', '').replace('an hour', '').replace(' ','').replace('$', '').replace('++', '')
+                salary = salary.replace('an hour', '')
             elif 'month' in salary:
                 item['salary_unit'] = 'month'
-                salary = salary.replace(',', '').replace('a month', '').replace(' ','').replace('$', '').replace('++', '')
+                salary = salary.replace('a month', '')
+            elif 'week' in salary:
+                item['salary_unit'] = 'week'
+                salary = salary.replace('a week', '')
+            elif 'day' in salary:
+                item['salary_unit'] = 'day'
+                salary = salary.replace('a day', '')
             else:
+                print('Error Text: ' + salary)
                 raise ValueError('Cannot parse salary text.')
+
+            salary = salary.replace(',', '').replace(' ','').replace('$', '').replace('++', '').replace('From', '')
             
             if '-' in salary:
                 salary_all = salary.split('-')
