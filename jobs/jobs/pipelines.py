@@ -5,14 +5,19 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
+from scrapy.exporters import CsvItemExporter
+from datetime import date
 
 class JobsPipeline(object):
+    def __init__(self):
+        self.filename = 'jobs_' + date.today().strftime('%Y-%m-%d') + '.csv'
+    def open_spider(self, spider):
+        self.csvfile = open(self.filename, 'wb')
+        self.exporter = CsvItemExporter(self.csvfile)
+        self.exporter.start_exporting()
+    def close_spider(self, spider):
+        self.exporter.finish_exporting()
+        self.csvfile.close()
     def process_item(self, item, spider):
-        print('Title: ' + item['title'])
-        print('Company: ' + item['company'])
-        print('Rating: ' + item['rating'])
-        print('Location: ' + item['location'])
-        print('Salary: ' + item['salary'])
-        print('Level: ' + item['level'])
-        print()
+        self.exporter.export_item(item)
         return item
