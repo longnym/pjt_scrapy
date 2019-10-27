@@ -14,8 +14,8 @@ class JobsSpider(Spider):
         levels = ['entry', 'mid', 'senior']
 
         # 25 popular skills
-        skills = ['java', 'python', 'r analytics', 'sql', 'hadoop', 'spark', 'c#', 'c++', 'javascript', 'angular', 'node.js', 'linux', 'tensorflow', 'kubernetes', 'docker', 'android', 'ios', 'aws', 'azure', 'kafka', 'vb', 'olap', 'scala', 'golang', 'blockchain']
-        
+        skills = ['java', 'python', 'r analytics', 'sql', 'hadoop', 'spark', 'c#', 'c++', 'javascript', 'angular', 'node.js', 'linux', 'tensorflow', 'kubernetes', 'docker', 'android', 'ios', 'aws', 'azure', 'kafka', 'vb', 'php', 'scala', 'golang', 'blockchain', 'elasticsearch']
+
         # 10 largest states
         states = ['California', 'Texas', 'Florida', 'New York', 'Illinois', 'Pennsylvania', 'Ohio', 'Georgia', 'North Carolina', 'Michigan']
 

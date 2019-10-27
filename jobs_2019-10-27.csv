@@ -10426,15 +10426,6 @@ Bitsoft International inc.,entry,"Long Beach, CA",,40.0,40.0,hour,vb,California,
 ABA WORKS,entry,"Long Beach, CA",4.0,30.0,55.0,hour,vb,California,BCBA Consultant
 DEVELOPMENTAL PATHWAYS INC.,entry,"San Fernando Valley, CA",,45.0,50.0,hour,vb,California,BCBA Assessor
 Fred Finch Youth Center,entry,"San Diego, CA 92131",3.1,27.53,27.53,hour,vb,California,Behavior Supervisor Variable Hours (ABA)
-CCS Global Tech,entry,"San Diego, CA",,60000.0,80000.0,year,olap,California,Jr. SQL Developer
-PCS Global Tech,entry,"San Diego, CA",,60000.0,70000.0,year,olap,California,Database Developer
-Health & Human Services Comm,entry,"Austin, TX 78756 ",3.4,4917.0,6500.0,month,olap,Texas,Data Base Administrator IV
-CCS Global Tech,entry,"Wayne, PA",,60000.0,80000.0,year,olap,Pennsylvania,Hiring Entry Level SQL Developer
-CCS Global Tech,entry,"Wayne, PA",,25.0,30.0,hour,olap,Pennsylvania,Jr. SQL Developer
-CCS Global Tech,entry,"Wayne, PA",,60000.0,70000.0,year,olap,Pennsylvania,Entry Level SQL-BI Developer Needed
-PCS global tech,entry,"Wayne, PA",,60000.0,70000.0,year,olap,Pennsylvania,SQL Developer Intern
-State of Ohio Jobs,entry,"Columbus, OH 43215 ",3.8,36.16,36.16,hour,olap,Ohio,Software Development Specialist 4 (PN 20036288)
-"Interface, Inc.",entry,"Atlanta, GA",,60000.0,80000.0,year,olap,Georgia,Data Analyst
 Information Management Technologies,mid,"Irvine, CA",,12.0,12.0,hour,vb,California,"Systems Analyst / Programmer / Software Developer, pathway"
 City & County of San Francisco,mid,"San Francisco, CA 94103 ",4.1,49.64,62.45,hour,vb,California,IS Business Analyst-Senior
 McRory Pediatric Services Inc,mid,"Tarzana, CA 91356",,75000.0,75000.0,year,vb,California,Board Certified Behavior Analyst
@@ -10533,27 +10524,6 @@ Kent Moore Cabinets,mid,"Bryan, TX",3.8,60000.0,70000.0,year,vb,Texas,Computer P
 "ASAP Solutions Group, LLC",mid,"Plano, TX",4.0,80.0,90.0,hour,vb,Texas,Automation Anywhere Lead / Architect
 Texas Tech Univ Health Sciences Ctr,mid,"Lubbock, TX 79430",3.8,4000.0,4000.0,month,vb,Texas,Programmer Analyst III
 "City of Houston, TX",mid,"Houston, TX",3.8,46176.0,71136.0,year,vb,Texas,PROGRAMMER ANALYST III
-CEI,mid,"Tampa, FL",,100000.0,115000.0,year,olap,Florida,SQL Server DBA
-Fracture,mid,"Alachua, FL 32615",,70000.0,105000.0,year,olap,Florida,Data Analytics Manager
-Mayor's Office of Contract Services,mid,"Brooklyn, NY",,80000.0,130000.0,year,olap,New York,"ETL Developer, MO for Economic Opportunity"
-New York City MAYORS OFFICE OF CONTRACT SVCS,mid,"Brooklyn, NY",,80000.0,130000.0,year,olap,New York,"ETL Developer, MO for Economic Opportunity"
-Mayor's Office of Contract Services,mid,"Brooklyn, NY",,80000.0,130000.0,year,olap,New York,"Senior Developer, MO for Economic Opportunity"
-Defined Clarity,mid,"New York, NY",,90000.0,100000.0,year,olap,New York,Data Modeler / Database Developer
-Defined Clarity,mid,"New York, NY",,90000.0,90000.0,year,olap,New York,Sr. Database Developer / Business Intelligence Analyst
-Pennsylvania State Employees Credit Union,mid,"Harrisburg, PA 17110",4.1,65792.0,105267.0,year,olap,Pennsylvania,Database Administrator
-PSECU,mid,"Harrisburg, PA 17110",4.0,65792.0,105267.0,year,olap,Pennsylvania,Database Administrator II
-Intellidyne Business Systems,mid,"Collegeville, PA 19426",,70000.0,80000.0,year,olap,Pennsylvania,BI/ Report Developer
-Defined Clarity,mid,"Kng of Prussa, PA 19406",,90000.0,100000.0,year,olap,Pennsylvania,Data Modeler / Database Developer
-Defined Clarity,mid,"Kng of Prussa, PA 19406",,90000.0,90000.0,year,olap,Pennsylvania,Sr. Database Developer / Business Intelligence Analyst
-DataImpex,mid,"Columbus, OH",,54.0,54.0,hour,olap,Ohio,SSIS Developer
-Genesis Consulting LLC,mid,"Cleveland, OH",,55.0,75.0,hour,olap,Ohio,Data Modeler
-Aruna IT Corp,mid,"Columbus, OH",,70.0,72.0,hour,olap,Ohio,Business Intelligence Developer
-"1-800-PACK-RAT, LLC / Zippy Shell",mid,"Wake Forest, NC",,90000.0,105000.0,year,olap,North Carolina,Salesforce Developer
-ClientServer Technology Solutions LLC,mid,"Charlotte, NC",,42.0,50.0,hour,olap,North Carolina,PL/SQL developer - with ETL
-aThingz Inc.,mid,"Southfield, MI",,50.0,75.0,hour,olap,Michigan,Power BI Developer
-Health & Human Services Comm,mid,"Austin, TX 78751",3.4,5785.0,9783.0,month,olap,Texas,Data Base Administrator IV
-"Tarrant County, TX",mid,"Tarrant County, TX",4.1,5975.0,6572.0,month,olap,Texas,SENIOR APPLICATION PROGRAMMER ANALYST (Data Transformation &...
-Alameda Alliance,mid,"Alameda, CA 94502",2.5,77710.0,116570.0,year,olap,California,120 FINANCE - Senior Data Analyst Healthcare
 TIRUVEN,senior,"Irving, TX",,77500.0,77500.0,year,vb,Texas,Project Manager - IT Services
 City of San Antonio,senior,"San Antonio, TX 78205 ",3.9,52683.0,79024.0,year,vb,Texas,Application Solutions Senior Analyst
 PCMS,senior,"Dallas, TX",,145000.0,180000.0,year,vb,Texas,Senior .NET Application Developer
@@ -10569,10 +10539,6 @@ Cloud Soft,senior,"Alpharetta, GA",,125500.0,125500.0,year,vb,Georgia,Senior Sof
 Huntsource Inc,senior,"Charlotte, NC 28202 ",,112800.0,112800.0,year,vb,North Carolina,Lead CyberSecurity Firewall Engineer
 "TekPartners, A P2P Company",senior,"Charlotte, NC 28201 ",3.9,120000.0,130000.0,year,vb,North Carolina,Sr. ASP.NET MVC SOFTWARE DEVELOPER
 Eifer IT,senior,"Troy, MI",,90000.0,90000.0,year,vb,Michigan,Senior Programmer Analyst
-Ateroz,senior,"Dallas, TX",,130000.0,140000.0,year,olap,Texas,Informix Database Administrator
-Indeed,senior,"Austin, TX 78731",4.4,138000.0,174000.0,year,olap,Texas,Sr. Software Engineer - Big Data
-InspiHER Tech,senior,"Chicago, IL",,160000.0,160000.0,year,olap,Illinois,"SQL SERVER (SQL) LEAD DATA ENGINEER, # 10560"
-Jobot,senior,"Orange, CA 92868",5.0,150000.0,180000.0,year,olap,California,Director of FP&A
 PRISM IT CORP,entry,"Jacksonville, FL",,65000.0,75000.0,year,scala,Florida,Big Data developer with scala
 Liberty Personnel Services,entry,"King of Prussia, PA",4.5,170000.0,170000.0,year,scala,Pennsylvania,Data Engineers
 Ace-stack LLC,entry,"Atlanta, GA",,60.0,60.0,hour,scala,Georgia,Angular developer
@@ -10885,3 +10851,1014 @@ Pythian,senior,United States,3.4,130000.0,190000.0,year,blockchain,North Carolin
 Pythian,senior,United States,3.4,150000.0,200000.0,year,blockchain,North Carolina,Cloud Data Architect
 Pythian,senior,United States,3.4,150000.0,200000.0,year,blockchain,Michigan,Cloud Data Architect
 Pythian,senior,United States,3.4,130000.0,190000.0,year,blockchain,New York,Big Data Architect
+County of Summit,entry,"Summit, OH",4.5,12.01,12.01,hour,php,Ohio,Intern/Student/Temporary Help
+Slate Group at Russell Real Estate,entry,"Westlake, OH 44145",,50000.0,100000.0,year,php,Ohio,Experienced Real Estate Agent
+Delta Freight Systems LLC,entry,"Columbus, OH",,63000.0,83000.0,year,php,Ohio,Solo and Team Truck Drivers OTR Class A
+Owens Community College,entry,"Toledo, OH",4.1,8.55,8.55,hour,php,Ohio,"Federal Work Study, Student Media Center Toledo, Graphic/Web..."
+General Trucking Inc,entry,"Cleveland, OH 44114 ",,65000.0,80000.0,year,php,Ohio,Hiring CDL Class A Regional Over the Road (OTR) Drivers! Gre...
+Carolina Country Club,entry,"Raleigh, NC 27609 ",3.7,11.0,12.0,hour,php,North Carolina,Men's 19th Hole Server/Bartender
+State of Michigan,entry,"Flint, MI",3.9,3232.0,4992.0,month,php,Michigan,Services Specialist 9/10/P11 - Genesee (Foster Care Case Man...
+OtterBase,entry,"Ann Arbor, MI",3.8,85000.0,95000.0,year,php,Michigan,Web Application Developer
+City of Romulus,entry,"Romulus, MI 48174",4.2,12.0,12.0,hour,php,Michigan,Part-Time Seasonal Laborer
+General Trucking Inc,entry,"Warren, MI 48091",,65000.0,80000.0,year,php,Michigan,Hiring CDL Class A Regional Over the Road (OTR) Drivers! Gre...
+Jobot,entry,"Austin, TX 78701 ",5.0,90000.0,110000.0,year,elasticsearch,Texas,DevOps Developer
+"Computer Enterprises, Inc. (CEI)",entry,"Philadelphia, PA 19103",3.5,90000.0,130000.0,year,elasticsearch,Pennsylvania,"DevOps Engineer - Linux, AWS, Docker"
+J2 Solutions,entry,"Dresher, PA 19025",,120000.0,120000.0,year,elasticsearch,Pennsylvania,API Developer
+Jobot,entry,"San Francisco, CA 94105 ",5.0,180000.0,240000.0,year,elasticsearch,California,Principal Software Engineer
+Third Republic,entry,"San Mateo, CA 94401 ",,150000.0,180000.0,year,elasticsearch,California,Engineering Manager
+SDH Systems,entry,"Pleasanton, CA 94588",,107494.0,107494.0,year,elasticsearch,California,Devops Engineer
+Clear Capital,entry,"Roseville, CA 95661",3.1,80000.0,120000.0,year,elasticsearch,California,Software Engineer - Java
+State of Michigan,entry,"Lapeer, MI 48446",3.9,3070.0,4309.0,month,php,Michigan,Assistance Payments Worker
+Eaton County,entry,"Charlotte, MI 48813",2.8,41392.0,55307.0,year,php,Michigan,Corrections Deputy
+Oakland University,entry,"Rochester, MI",4.3,60000.0,60000.0,year,php,Michigan,Developer Analyst
+City of Romulus,entry,"Romulus, MI",4.2,48889.0,67774.0,year,php,Michigan,Police Officer - Full Time
+Henry Ford Health System,entry,"Detroit, MI 48216 ",3.9,57152.0,57152.0,year,php,Michigan,Credentialing Database Analyst
+OtterBase,entry,"Ann Arbor, MI",3.8,60000.0,80000.0,year,php,Michigan,Programmer - ANY LANGUAGE
+JRD systems,entry,"Battle Creek, MI",,65000.0,80000.0,year,php,Michigan,IT Business Analyst
+mediaBrew Communications Marquette Llc.,entry,"Marquette, MI 49855",,10.0,10.0,hour,php,Michigan,Computer & Network Technician Job or Paid Internship
+Common Ground,entry,"Pontiac, MI 48341",4.0,14.42,16.82,hour,php,Michigan,Crisis Traffic Coordinator - Part-time 16 hrs/wk Days w/Rota...
+OtterBase,entry,"Saint Joseph, MI",3.8,55000.0,60000.0,year,php,Michigan,Mobile Application Developer
+State of Michigan,entry,"Monroe, MI 48161",3.9,3306.0,4894.0,month,php,Michigan,Services Specialist 9/10/P11 Monroe (Case Manager/ Investiga...
+Basso,entry,"Troy, MI 48084",,30000.0,35000.0,year,php,Michigan,Junior WordPress Developer
+906 Technologies,entry,"Marquette, MI",2.7,12.0,14.0,hour,php,Michigan,Web and Software Internship
+County of Monroe,entry,"Monroe, MI 48161",3.0,11.45,11.45,hour,php,Michigan,Resident Care Worker
+State of Michigan,entry,"Munising, MI",3.9,3232.0,4992.0,month,php,Michigan,Services Specialist 9/10/P11 Alger County (Case Manager/ Inv...
+Old-Fashioned Cleaning,entry,"Ann Arbor, MI 48108",,11.5,11.5,hour,php,Michigan,Cleaner- Evenings- Janitorial- Commercial Cleaning
+Merit Logistics,entry,"Chesterfield, MI",2.6,11.0,11.0,hour,php,Michigan,"FT Perm. Warehouse Associates -Chesterfield, MI"
+Autism Society Of North Carolina,entry,"Morrisville, NC",4.0,9.75,12.0,hour,php,North Carolina,Autism Aide for teen: Weekdays 4pm-7pm
+Ace-stack LLC,entry,"Durham, NC",,60.0,60.0,hour,php,North Carolina,Full stack developer
+The Umstead Hotel and Spa,entry,"Cary, NC 27513",3.8,12.0,12.0,hour,php,North Carolina,AM & PM Dishwashers
+Pyramid Healthcare,entry,"Charlotte, NC",2.9,57000.0,65000.0,year,php,North Carolina,Clinical Director (LCAS Required)
+The Umstead Hotel and Spa,entry,"Cary, NC 27513",3.8,12.0,12.0,hour,php,North Carolina,Full Time Herons Host
+Greenstone Media,entry,"Asheville, NC 28801",,15.0,25.0,hour,php,North Carolina,Project Manager / Web Specialist
+Wake Industrial,entry,"Cary, NC 27513",,15.0,15.0,hour,php,North Carolina,Part-Time Web Developer
+Springmoor Retirement Community,entry,"Raleigh, NC 27615 ",3.5,9.5,10.0,hour,php,North Carolina,Dietary Aide
+LeadsNearby,entry,"Cary, NC 27511",,35000.0,50000.0,year,php,North Carolina,Client Support Web Developer
+Autism Society Of North Carolina,entry,"Raleigh, NC 27605 ",4.0,9.5,13.0,hour,php,North Carolina,Experienced Autism Tech for adults in Garner and Raleigh
+Autism Society Of North Carolina,entry,"Cary, NC",4.0,9.5,13.0,hour,php,North Carolina,"Hab Tech for adults, flexible part time weekday and weekend..."
+Centers for Disease Control and Prevention,entry,"Durham, NC",4.2,64561.0,83934.0,year,php,North Carolina,Medical Classification Specialist
+Carolina Country Club,entry,"Raleigh, NC 27608 ",3.7,11.0,11.0,hour,php,North Carolina,Youth Program Coordinator
+Inspire Family Health,entry,"Charlotte, NC 28270 ",,13.0,15.0,hour,php,North Carolina,Patient Care Coordinator
+The Umstead Hotel and Spa,entry,"Cary, NC 27513",3.8,15.0,19.0,hour,php,North Carolina,AM Server
+Autism Society Of North Carolina,entry,"Chapel Hill, NC",4.0,9.5,13.0,hour,php,North Carolina,Autism Aide: Weekdays 3:30-7:30 or Weekend Hours available!
+Biscuitville,entry,"High Point, NC 27265",,8.5,8.5,hour,php,North Carolina,Biscuitville Hiring Crew Members for Sutton Way in High Poin...
+City of Durham,entry,"Durham, NC 27701",3.8,15.0,27.0,hour,php,North Carolina,Website Maintenance Assistant
+Triad Health Center,entry,"Greensboro, NC 27408",,10.0,14.0,hour,php,North Carolina,Medical + Chiropractic Administrative Assistant
+Sampson County Emergency Management,entry,"Clinton, NC 28328",,48708.0,79452.0,year,php,North Carolina,Public Health Nurse II
+Herons,entry,"Cary, NC 27513",,16.0,19.0,hour,php,North Carolina,PM Back Server
+Duke Careers,entry,"Durham, NC 27710",4.1,16.5,16.5,hour,php,North Carolina,"LD4P PROJECT SUPPORT INTERN, LIBRARIES"
+Linker Logic Technologies,entry,"Raleigh, NC",,60000.0,60000.0,year,php,North Carolina,Backend Engineer
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,88704.0,121264.0,year,php,Georgia,General Engineer
+Barrett Landscaping,entry,"Savannah, GA 31410",3.5,11.0,16.0,hour,php,Georgia,Landscaping Jobs Near Me
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,93282.0,121264.0,year,php,Georgia,Computer Scientist (Data Scientist)
+US Other Agencies and Independent Organizations,entry,"Atlanta, GA",4.5,51440.0,160286.0,year,php,Georgia,Public Notice for Direct Hire (IT Information Security/INFOS...
+US Other Agencies and Independent Organizations,entry,"Atlanta, GA",4.5,74596.0,160286.0,year,php,Georgia,Public Notice for Direct Hire (Cyber security)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,93282.0,121264.0,year,php,Georgia,Mathematical Statistician (Data Scientist)- (Direct Hire)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,93282.0,121264.0,year,php,Georgia,Statistician (Data Scientist) ( Direct Hire)
+US Other Agencies and Independent Organizations,entry,"Atlanta, GA",4.5,62236.0,160286.0,year,php,Georgia,Public Notice for Direct Hire (Engineering/Physical Science)
+ALLEN PRECISION EQUIPMENT,entry,"Duluth, GA 30096",,60000.0,70000.0,year,php,Georgia,e-commerce & Marketing Specialist
+SimplePart,entry,"Atlanta, GA",2.3,40000.0,60000.0,year,php,Georgia,Front End Web Developer
+US Department of the Interior,entry,"Warm Springs, GA",4.2,39796.0,57492.0,year,php,Georgia,Administrative Support Assistant
+Spalding County Board of Commissioners,entry,"Griffin, GA 30223",,12.57,12.57,hour,php,Georgia,Part time Office Assistant
+US Department of the Navy,entry,"Albany, GA",4.3,46572.0,60543.0,year,php,Georgia,FINANCIAL TECHNICIAN
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,65448.0,101983.0,year,php,Georgia,Epidemiologist
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30307",4.2,110231.0,143304.0,year,php,Georgia,Biologist (Direct Hire)
+US Department of Justice,entry,"Macon, GA 31201",4.2,51440.0,80912.0,year,php,Georgia,Paralegal Specialist
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30307",4.2,104821.0,148794.0,year,php,Georgia,Health Scientist
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,78446.0,121264.0,year,php,Georgia,Public Health Analyst (Policy)
+US Department of the Air Force,entry,"Dobbins AFB, GA",4.5,65448.0,85088.0,year,php,Georgia,PERSONNEL LIAISON SPECIALIST
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,93282.0,121264.0,year,php,Georgia,Public Health Advisor
+US Department of the Air Force,entry,"Moody AFB, GA",4.5,74596.0,96978.0,year,php,Georgia,HISTORIAN
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,64290.0,100175.0,year,php,Georgia,Contract Specialist (Direct Hire)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,77382.0,128920.0,year,php,Georgia,Statistician (Health)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,65448.0,85088.0,year,php,Georgia,Electronics Technician (BAS)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30307",4.2,129662.0,166500.0,year,php,Georgia,Management Officer
+US Other Agencies and Independent Organizations,entry,"Atlanta, GA",4.5,62236.0,160286.0,year,php,Georgia,Public Notice for Direct Hire (Acquisitions)
+The Lean Way Consulting,entry,"Kennesaw, GA 30152",,16.0,16.0,hour,php,Georgia,Glasses and Contacts Sales
+US Department of the Army,entry,"Forest Park, GA",4.4,55897.0,151580.0,year,php,Georgia,Criminal Investigator
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,93282.0,121264.0,year,php,Georgia,Health Scientist (Data Scientist)
+Hall County Library System,entry,"Gainesville, GA 30501",4.0,10.0,11.0,hour,php,Georgia,Courier Driver
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,65448.0,101983.0,year,php,Georgia,IT Specialist (INFOSEC) (Direct Hire)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,77382.0,128920.0,year,php,Georgia,Statistician (Health) (Direct Hire)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,93282.0,121264.0,year,php,Georgia,Public Health Analyst
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30307",4.2,129662.0,166500.0,year,php,Georgia,Research Biologist (Direct Hire)
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,65448.0,101983.0,year,php,Georgia,IT SPECIALIST (INFOSEC)
+Spalding County Board of Commissioners,entry,"Griffin, GA 30223",,36035.0,36035.0,year,php,Georgia,Certified Firefighter
+Robert Loehr CDJR,entry,"Cartersville, GA",,40000.0,60000.0,year,php,Georgia,Web Developer / Webmaster
+US Department of the Air Force,entry,"Moody AFB, GA",4.5,74596.0,96978.0,year,php,Georgia,SUPERVISORY SECURITY SPECIALIST
+Spalding County Board of Commissioners,entry,"Griffin, GA 30223",,9.85,9.85,hour,php,Georgia,Collection Center Attendant
+Centers for Disease Control and Prevention,entry,"Atlanta, GA 30305 ",4.2,65448.0,85088.0,year,php,Georgia,Electronics Technician (Security Systems)
+"American Megatrends, Inc",entry,"Norcross, GA 30093",,71000.0,77000.0,year,php,Georgia,Software Engineer
+Ottawa County Engineer,entry,"Oak Harbor, OH 43449",,20.0,24.09,hour,php,Ohio,Mechanic II
+The Original Gino's Pizza,entry,"Sylvania, OH",3.5,10.0,10.0,hour,php,Ohio,Pizza Maker/Cashier
+Sitting Made Simple,entry,"Cleveland, OH",4.5,11.0,16.0,hour,php,Ohio,Experienced Child Care Provider
+Delaware County,entry,"Delaware, OH",3.6,20.0,22.0,hour,php,Ohio,Licensed Social Worker/Counselor - Family Advocate
+"Logistics Done Right, Inc.",entry,"Cincinnati, OH 45237 ",,12.0,15.0,hour,php,Ohio,Refurbishment Technician
+WebArt,entry,"Toledo, OH",,130.0,130.0,day,php,Ohio,Content Developer – Freelance
+US Department of the Treasury,entry,"Cincinnati, OH",4.0,53459.0,84088.0,year,php,Ohio,Alcohol and Tobacco Tax Specialist
+US Department of Energy,entry,"Cincinnati, OH",4.2,92185.0,119839.0,year,php,Ohio,Contractor Industrial Relations Specialist
+"Delta Media Group, Inc.",entry,"Canton, OH 44708",,12.5,12.5,hour,php,Ohio,Technical Support Representative
+US Department of the Air Force,entry,"Springfield, OH",4.5,76492.0,99443.0,year,php,Ohio,SOCIAL WORKER
+Centers for Disease Control and Prevention,entry,"Cincinnati, OH",4.2,108936.0,141619.0,year,php,Ohio,Supervisory Research General Engineer
+Cerkl,entry,"Blue Ash, OH 45242",,65000.0,95000.0,year,php,Ohio,Software Engineer (Full Stack)
+Hershey Entertainment & Resorts Company,entry,"Hershey, PA 17033",3.9,8.5,8.5,hour,php,Pennsylvania,"ACTIVITY ATTENDANT, PT"
+Merakey,entry,"Monessen, PA 15062",3.1,18.0,18.0,hour,php,Pennsylvania,"Therapeutic Staff Support - Monassen, PA"
+Merakey,entry,"Carlisle, PA 17013",3.1,11.0,11.0,hour,php,Pennsylvania,Housekeeper (ID # 49526 - PRN shifts)
+Merakey,entry,"Colmar, PA 18915",3.1,30.25,30.25,hour,php,Pennsylvania,Community Registered Nurse RN - Part Time Colmar
+Merakey,entry,"Williamsport, PA 17701",3.1,14.25,14.25,hour,php,Pennsylvania,Therapeutic Staff Support (TSS) - Williamsport
+Merakey,entry,"Philadelphia, PA 19119 ",3.1,15.0,15.0,hour,php,Pennsylvania,Child Care Worker - TSS Therapeutic Staff Support
+Merakey,entry,"Harrisburg, PA 17111",3.1,11.5,11.5,hour,php,Pennsylvania,Psych / Mental Health Tech (47834)
+Hershey Entertainment & Resorts,entry,"Hershey, PA 17033",3.9,8.5,8.5,hour,php,Pennsylvania,ACTIVITIES ATTENDANT
+Merakey,entry,"Nazareth, PA 18064",3.1,12.61,12.61,hour,php,Pennsylvania,Psychiatric Technician/Recovery Coach (Full Time w/ Benefits...
+Merakey,entry,"Bethlehem, PA 18017",3.1,13.05,13.05,hour,php,Pennsylvania,Certified Peer Support Specialist (46668)
+Special Pathogens Laboratory,entry,"Pittsburgh, PA 15219 ",,35000.0,35000.0,year,php,Pennsylvania,Software Product Support Specialist
+Quality Progressions,entry,"Philadelphia, PA 19107 ",4.1,35500.0,35500.0,year,php,Pennsylvania,Bilingual Supports Coordinator
+Qualilty Services Inc,entry,"McCandless, PA",,12.5,13.0,hour,php,Pennsylvania,Part Time Evenings Janitorial
+"Southwestern Pennsylvania Human Services, Inc.",entry,"Charleroi, PA 15022",,10.0,10.0,hour,php,Pennsylvania,19177 Web Developer -Internship
+Merakey,entry,"East Berlin, PA 17316",3.1,12.0,12.0,hour,php,Pennsylvania,PRN Program Assistant (East Berlin)
+Merakey,entry,"Nazareth, PA 18064",3.1,12.61,12.61,hour,php,Pennsylvania,Psych Tech 1 / Direct Care Worker 1 (Full Time) ID # 49344
+Armentum,entry,"Philadelphia, PA",,45000.0,60000.0,year,php,Pennsylvania,Inside Sales Representative (Digital Agency)
+Get The Picture Corp,entry,"Hershey, PA 17033",3.6,7.5,11.0,hour,php,Pennsylvania,Sales Associate / Photographer - Hershey Attractions
+Merakey,entry,"Bethlehem, PA 18015",3.1,13.25,13.25,hour,php,Pennsylvania,FT Certified Peer Support (49037)
+Jean Madeline,entry,"Strafford, PA 19087",3.8,13.0,13.0,hour,php,Pennsylvania,Salon Receptionist- Main Line
+CareLink Community Support Services,entry,"Norristown, PA 19401",3.1,22.0,26.0,hour,php,Pennsylvania,Licensed Practical Nurse - STAR
+Merakey,entry,"Lock Haven, PA 17745",3.1,26.0,26.0,hour,php,Pennsylvania,Behavior Specialist Consultant (BSC) - Lock Haven
+Qualilty Services Inc,entry,"Upper Saint Clair, PA",,9.75,10.0,hour,php,Pennsylvania,Office Cleaner
+Merakey,entry,"Sharon Hill, PA 19079",3.1,63000.0,63000.0,year,php,Pennsylvania,ACT Team Leader (Licensed)
+Merakey,entry,"Philadelphia, PA 19119 ",3.1,15.0,15.0,hour,php,Pennsylvania,Therapeutic Support Staff - FFS
+Merakey,entry,"Philadelphia, PA 19144 ",3.1,12.4,12.4,hour,php,Pennsylvania,Mental Health Tech Sat&Sun
+Jean Madeline Aveda Institute,entry,"Philadelphia, PA",3.7,18.0,18.0,hour,php,Pennsylvania,Cosmetology Educator
+CareLink Community Support Services,entry,"Philadelphia, PA",3.1,22.0,26.0,hour,php,Pennsylvania,"Licensed Practical Nurse - SSL, Philadelphia"
+Merakey,entry,"Upland, PA 19015",3.1,23.48,23.48,hour,php,Pennsylvania,Licensed Practical Nurse Full Time Weekend
+Merakey,entry,"Harrisburg, PA 17102",3.1,12.82,12.82,hour,php,Pennsylvania,Psychiatric Technician II (46845)
+Merakey,entry,"Pine Grove, PA 17963",3.1,11.34,11.34,hour,php,Pennsylvania,CRR Program Assistant - Full Time - 2nd Shift (47648)
+Merakey,entry,"Bethlehem, PA 18015",3.1,12.0,12.0,hour,php,Pennsylvania,PRN Psych Tech (46337)
+CareLink Community Support Services,entry,"Wallingford, PA",3.1,13.5,13.5,hour,php,Pennsylvania,Residential Counselor
+Muncy Machine Tool,entry,"Turbotville, PA",,20.0,25.0,hour,php,Pennsylvania,Electrical/PLC Controls Technician
+Health Federation of Philadelphia,entry,"Philadelphia, PA 19107 ",4.2,43000.0,43000.0,year,php,Pennsylvania,Substance Use Data Manager
+Merakey,entry,"Bethlehem, PA 18018",3.1,12.61,12.61,hour,php,Pennsylvania,Adult Psych Tech (ID #48560)
+Muncy Industries,entry,"Turbotville, PA",,41600.0,52000.0,year,php,Pennsylvania,Computer Programmer
+US Department of Justice,entry,"Pittsburgh, PA 15222 ",4.2,31181.0,40530.0,year,php,Pennsylvania,Student Trainee (Clerk/Office Automation)
+US Department of the Treasury,entry,"Philadelphia, PA",4.0,96089.0,124913.0,year,php,Pennsylvania,Lead Accountant
+CeraMaterials,entry,"Dingmans Ferry, PA 18328",,40000.0,50000.0,year,php,Pennsylvania,Web Developer & Graphic Designer
+eNet Web Services,entry,"West Chester, PA 19380",,35000.0,50000.0,year,php,Pennsylvania,Web Designer/Developer
+J2 Solutions,entry,"Dresher, PA 19025",,120000.0,120000.0,year,php,Pennsylvania,API Developer
+Mid-Atlantic ProTel,entry,"Waynesboro, PA 17268",3.2,25000.0,30000.0,year,php,Pennsylvania,AT&T Sales Representative
+Cold Stone Creamery,entry,"Reading, PA 19610",3.7,8.0,8.0,hour,php,Pennsylvania,Crew Member
+Qualilty Services Inc,entry,"Butler, PA",,11.99,12.0,hour,php,Pennsylvania,Daylight Cleaner/Day Porter
+Iconic Web HQ,entry,"Hallam, PA 17406",,15.0,20.0,hour,php,Pennsylvania,PT Web Designer
+Quality Progressions,entry,"Philadelphia, PA 19107 ",4.1,35500.0,35500.0,year,php,Pennsylvania,Supports Coordinator
+Qualilty Services Inc,entry,"Pittsburgh, PA 15235",,16.0,18.0,hour,php,Pennsylvania,Janitorial Evening Supervisor
+US Department of the Treasury,entry,"Philadelphia, PA",4.0,23.37,27.21,hour,php,Pennsylvania,Machine Tool Operator (Die Manufacturer)
+OpenSource Technologies Inc,entry,"Lansdale, PA 19446",,12.0,22.0,hour,php,Pennsylvania,Junior PHP/Drupal Developer
+"Blueprints for Addiction Recovery, Inc.",entry,"Mount Joy, PA",,18.0,25.0,hour,php,Pennsylvania,Part-time PHP Substance Abuse Counselor
+US Department of Justice,entry,"Pittsburgh, PA 15222 ",4.2,42053.0,54670.0,year,php,Pennsylvania,Information Technology Specialist (Recent Graduates)
+US Department of the Treasury,entry,"Philadelphia, PA",4.0,96089.0,124913.0,year,php,Pennsylvania,General Engineer
+Merakey,entry,"Stroudsburg, PA 18360",3.1,14.49,14.49,hour,php,Pennsylvania,Administrative Assistant - Part Time / 20/hr week
+US Other Agencies and Independent Organizations,entry,"Slippery Rock, PA",4.5,107712.0,140029.0,year,php,Pennsylvania,Supervisory Personnel Security Specialist
+Jean Madeline Aveda Institute,entry,"Philadelphia, PA",3.7,11.0,11.0,hour,php,Pennsylvania,Student Salon Receptionist- University City
+Merakey,entry,"Greensburg, PA 15601",3.1,40.0,40.0,hour,php,Pennsylvania,Behavioral Specialist
+Merakey,entry,"Colmar, PA 18915",3.1,18.27,18.27,hour,php,Pennsylvania,Blended Case Manager (48722)
+"WebFX, Inc.",entry,"Harrisburg, PA 17102",4.6,35000.0,39000.0,year,php,Pennsylvania,Jr. Web Designer
+ChopDawg Studios,entry,"Philadelphia, PA",,100.0,200.0,hour,php,Pennsylvania,Part-Time React Native Programmer for iOS and Android
+Merakey,entry,"Bethlehem, PA 18017",3.1,12.61,12.61,hour,php,Pennsylvania,Psych Tech (ID # 48561)
+Bar Down Sports Grill,entry,"Hoffman Estates, IL 60169",,8.0,10.0,hour,php,Illinois,Snack Counter Attendant
+Human Capital Media,entry,"Chicago, IL 60601 ",,13.0,13.0,hour,php,Illinois,Digital Intern
+Asylum Skatepark,entry,"Lake Bluff, IL 60044",,9.5,9.5,hour,php,Illinois,Skatepark & Skateshop front desk personnel
+WOW 1 DAY PAINTING,entry,"Saint Charles, IL",3.2,22.0,25.0,hour,php,Illinois,Painting Job Site Manager
+Klein Consulting,entry,"Chicago, IL 60604 ",,40000.0,60000.0,year,php,Illinois,Business Data Analyst
+Bar Down Sports Grill,entry,"Hoffman Estates, IL 60169",,8.0,10.0,hour,php,Illinois,Front Counter
+The Fortune Partners,entry,"Oak Brook, IL",,25000.0,90000.0,year,php,Illinois,Independent Insurance Agent
+Papa Dels Pizza,entry,"Champaign, IL 61820",,8.5,12.0,hour,php,Illinois,Cook/Day Time Server/Pizza Maker
+Bar Down Sports Grill,entry,"Hoffman Estates, IL 60169",,8.0,10.0,hour,php,Illinois,Lane Attendant
+Southern Illinois University Carbondale,entry,"Carbondale, IL",4.2,1942.0,1942.0,month,php,Illinois,Medical Assistant(Credentialed/Certified)
+Tovar Snow Professionals,entry,"Palatine, IL",3.8,16.0,21.0,hour,php,Illinois,Winter Shovelers/Drivers Needed-Apply today!
+ArtVersion Interactive,entry,"Lake Bluff, IL",,30000.0,65000.0,year,php,Illinois,Full-Stack Web Developer
+Paul Davis Restoration of North Chicago,entry,"Chicago, IL 60613 ",,50000.0,50000.0,year,php,Illinois,Marketing Coordinator
+"City of Aurora, IL",entry,"Aurora, IL",4.7,11.91,11.91,hour,php,Illinois,Police Cadet
+Klein Consulting,entry,"Chicago, IL 60604 ",,40000.0,60000.0,year,php,Illinois,Data Analyst
+theCoderSchool,entry,"Highland Park, IL 60035",4.3,12.0,30.0,hour,php,Illinois,"Know Scratch, Python, HTML? Help teach kids how to code!"
+Fairgrounds Coffee & Tea,entry,"Vernon Hills, IL",,45000.0,55000.0,year,php,Illinois,General Manager - New Store Opening!
+US Department of Health And Human Services,entry,"Chicago, IL",4.1,82579.0,107357.0,year,php,Illinois,Child Care Program Specialist
+US Department of the Treasury,entry,"Chicago, IL",4.0,98198.0,127654.0,year,php,Illinois,Criminal Investigator (Special Agent)
+US Department of Health And Human Services,entry,"Chicago, IL",4.1,136495.0,166500.0,year,php,Illinois,Program Analysis Officer
+App Builders,entry,"Chicago, IL 60621 ",,15.0,30.0,hour,php,Illinois,Computer programming Intern
+MERS Goodwill,entry,"Fairview Heights, IL 62208",3.7,9.5,10.0,hour,php,Illinois,Retail Associate
+Zealth Digital Marketing,entry,"Downers Grove, IL 60515",,20.0,20.0,hour,php,Illinois,WordPress Developer - PHP/JS Specialist
+ArtVersion Interactive,entry,"Lake Bluff, IL",,30000.0,65000.0,year,php,Illinois,Front-End WordPress Developer
+MERS/MO Goodwill Industries,entry,"Fairview Heights, IL",,9.5,9.5,hour,php,Illinois,Retail Sales Associate
+US Department of the Army,entry,"Rock Island, IL",4.4,105564.0,137237.0,year,php,Illinois,Logistics Management Specialist
+Chicago Water and Fire Restoration,entry,"Elmhurst, IL 60126",4.1,70000.0,100000.0,year,php,Illinois,Environmental Supervisor - Asbestos Abatement
+ATS Acoustics,entry,"Champaign, IL 61822",,100000.0,100000.0,year,php,Illinois,Full LAMP Stack Developer
+Adler Planetarium,entry,"Chicago, IL 60605 ",3.8,60000.0,68000.0,year,php,Illinois,Web Developer
+Southern Illinois University Carbondale,entry,"Carbondale, IL",4.2,2818.0,3452.0,month,php,Illinois,Program Coordinator-Black Resource Center
+US Department of the Air Force,entry,"Scott AFB, IL",4.5,62979.0,81878.0,year,php,Illinois,LOGISTICS MANAGEMENT SPECIALIST
+The Sonnenschein Groupe,entry,"Oakbrook Terrace, IL 60181",,38000.0,40000.0,year,php,Illinois,Junior Web Developer
+Greater Chicago Food Depository,entry,"Chicago, IL 60632 ",4.3,15.0,15.0,hour,php,Illinois,Temporary Gift Processor
+Solgen Power,entry,"Streamwood, IL 60107",,20.0,20.0,hour,php,Illinois,Field Marketer
+US Department of the Army,entry,"Rock Island, IL",4.4,105564.0,137237.0,year,php,Illinois,Supervisory Financial Management Analyst
+Klein Consulting,entry,"Chicago, IL 60604 ",,65000.0,80000.0,year,php,Illinois,Entry Level Developer
+Budget Golf,entry,"Joliet, IL 60431",,12.0,14.0,hour,php,Illinois,Warehouse Associate - Full Time
+"The Legal Aid Society of Rochester, NY",entry,"Rochester, NY 14614 ",,34500.0,34500.0,year,php,New York,Social Worker - Family Law Unit
+Wyzant,entry,"Melville, NY 11747",4.0,24.0,30.0,hour,php,New York,Tutor or Teacher - PHP
+"Education Department, State",entry,"Albany, NY 12234 ",3.6,56604.0,71980.0,year,php,New York,"Information Technology Specialist 2, Box P12-1966/26308"
+"Hudson Valley Community Services, Inc.",entry,"Hawthorne, NY",3.1,45000.0,50000.0,year,php,New York,Program Supervisor- Health Homes
+Department of Veterans Affairs,entry,"Albany, NY",3.9,15000.0,15000.0,year,php,New York,Leadership opportunity as the Chief of Surgery with the Alba...
+"The Legal Aid Society of Rochester, NY",entry,"Rochester, NY 14614 ",,50750.0,50750.0,year,php,New York,Attorney for the Child
+Wyzant,entry,"New York, NY 10030 ",4.0,24.0,30.0,hour,php,New York,JavaScript Tutoring/Teaching
+Wyzant,entry,"New York, NY 10020 ",4.0,24.0,30.0,hour,php,New York,JavaScript Tutor/Teacher
+Wyzant,entry,"Smithtown, NY 11787",4.0,24.0,30.0,hour,php,New York,Computer Science Tutoring/Teaching
+Trium AI Solutions Inc,entry,"New York, NY",,15000.0,30000.0,year,php,New York,Web developer for Ecommerce with SEO knowledge
+Wildwood Programs,entry,"Albany, NY 12203 ",3.4,13.2,13.2,hour,php,New York,Direct Support Professional: Day Services
+"Hudson Valley Community Services, Inc.",entry,"Hawthorne, NY 10532",3.1,35000.0,36000.0,year,php,New York,Prevention Specialist - Men Services Program
+"Hudson Valley Community Services, Inc.",entry,"Newburgh, NY",3.1,32000.0,36000.0,year,php,New York,Housing Specialist
+"Hudson Valley Community Services, Inc.",entry,"Hawthorne, NY",3.1,33000.0,35000.0,year,php,New York,Community Relations & Enrollment Specialist
+"The Legal Aid Society of Rochester, NY",entry,"Rochester, NY 14614 ",,28000.0,28000.0,year,php,New York,Legal Assistant
+"The Legal Aid Society of Rochester, NY",entry,"Rochester, NY 14614 ",,12.75,12.75,hour,php,New York,Secretary (PT) - Attorney for the Child Unit
+"Hudson Valley Community Services, Inc.",entry,"Newburgh, NY",3.1,33000.0,35000.0,year,php,New York,Program Assistant- Client Services
+Nexus Management,entry,"Kingston, NY 12401",4.7,15.0,15.0,hour,php,New York,Canvasser
+Bronx Parent Housing Network,entry,"Bronx, NY 10460 ",3.4,50000.0,55000.0,year,php,New York,Client Care Coordinator ($50k-$55k Annually)
+The Coder School Long Island,entry,"Roslyn, NY",,20.0,50.0,hour,php,New York,"Python, HTML, Java, JavaScript, Scratch, Swift, C# Tutor"
+Merakey,entry,"Newburgh, NY 12550",3.1,15.87,15.87,hour,php,New York,Preventive Caseworker (48997)
+US Department of the Army,entry,"Fort Drum, NY",4.4,37843.0,49200.0,year,php,New York,Supervisory Program Specialist (CYS Services) NF-03
+Amerilist,entry,"Orangeburg, NY",3.0,35000.0,35000.0,year,php,New York,Graphic Designer / Web Designer
+"Hudson Valley Community Services, Inc.",entry,"Newburgh, NY",3.1,36000.0,38000.0,year,php,New York,Health Navigator
+US Department of the Army,entry,"West Point, NY",4.4,11.8,12.75,hour,php,New York,Recreation Aid NF-01
+The Equity Project Charter School,entry,"New York, NY",4.3,125000.0,125000.0,year,php,New York,Special Education Teacher (Middle School)
+US Department of the Army,entry,"Fort Drum, NY",4.4,15.25,17.79,hour,php,New York,Cook (CYS) NA-08
+"Hudson Valley Community Services, Inc.",entry,"Poughkeepsie, NY",3.1,35000.0,38000.0,year,php,New York,HCV Patient Navigator
+New York State Education Department,entry,"Albany, NY",4.4,56604.0,56604.0,year,php,New York,Information Technology Specialist 2 (Programming)
+US Department of the Army,entry,"Fort Drum, NY",4.4,35500.0,65000.0,year,php,New York,Executive Chef NF-04
+Empire Genomics,entry,"Buffalo, NY 14221",4.0,13.0,15.0,hour,php,New York,Website Developer - Paid UB Internship Opportunity
+Frame Work Design Group,entry,"Bay Shore, NY 11706",,35000.0,50000.0,year,php,New York,Web Developer
+Block Institute,entry,"Brooklyn, NY",3.3,15.0,15.0,hour,php,New York,Direct Support Professional (DSP)
+Airacer,entry,"New York, NY 10036",,40000.0,60000.0,year,php,New York,eCommerce Web/Mobile Designer
+Pod1,entry,"New York, NY 10001 ",,137426.0,137426.0,year,php,New York,SOFTWARE DEVELOPER WEB BASED APPLICATION
+Westchester Community College,entry,"Valhalla, NY 10595",4.3,54.52,54.52,hour,php,New York,Adjunct Faculty/Computer Programming
+The Equity Project Charter School,entry,"New York, NY",4.3,125000.0,125000.0,year,php,New York,Music Teacher (Middle School)
+"Hudson Valley Community Services, Inc.",entry,"Spring Valley, NY",3.1,35000.0,40000.0,year,php,New York,Syringe Exchange Program (SEP) Coordinator
+"Hudson Valley Community Services, Inc.",entry,"Hawthorne, NY",3.1,35000.0,40000.0,year,php,New York,"Prevention Specialist, WSP"
+US Department of the Army,entry,"Fort Drum, NY",4.4,13.32,14.0,hour,php,New York,Recreation Assistant (Facility Assistant) NF-02
+"Hudson Valley Community Services, Inc.",entry,"Monticello, NY",3.1,40000.0,42000.0,year,php,New York,Care Manager
+The Equity Project Charter School,entry,"New York, NY",4.3,125000.0,125000.0,year,php,New York,Math Teacher (Middle School)
+"Hudson Valley Community Services, Inc.",entry,"Newburgh, NY",3.1,32000.0,35000.0,year,php,New York,Prevention Specialist - SEP
+The Equity Project Charter School,entry,"New York, NY",4.3,125000.0,125000.0,year,php,New York,Social Studies Teacher (Middle School)
+New York Habitat,entry,"New York, NY 10001 ",4.3,15.0,15.0,hour,php,New York,Recent Grad : Part-time Social Media and Marketing Assistant
+US Department of the Army,entry,"Fort Drum, NY",4.4,13.32,14.0,hour,php,New York,Sports Assistant NF-02
+Block Institute,entry,"Brooklyn, NY",3.3,15.0,15.0,hour,php,New York,Residential Relief Counselor
+US Department of the Army,entry,"Fort Drum, NY",4.4,17.35,21.15,hour,php,New York,Lead Child and Youth Program Assistant (Level 5) CY-02
+"Hudson Valley Community Services, Inc.",entry,"Monticello, NY",3.1,32000.0,35000.0,year,php,New York,Program Assistant
+Doctors Internet LLC,entry,"Rye, NY",,50000.0,50000.0,year,php,New York,Website Designer/Developer
+The Equity Project Charter School,entry,"New York, NY",4.3,125000.0,125000.0,year,php,New York,English Language Arts Teacher (Middle School)
+"KGS Technology Group, Inc",entry,"New York, NY",4.5,50000.0,60000.0,year,php,New York,Fresher/ Entry level/ Junior Full stack web developer
+Controlled Combustion,entry,"Bronx, NY 10458 ",3.9,35000.0,45000.0,year,php,New York,Junior Programmer
+New York City DEPT OF DESIGN & CONSTRUCTION,entry,"Queens, NY",3.9,79564.0,108087.0,year,php,New York,Junior Web Application Developer
+US Department of Justice,entry,"Rochester, NY 14614 ",4.2,51440.0,80912.0,year,php,New York,Paralegal Specialist
+Block Institute,entry,"Brooklyn, NY",3.3,15.0,15.0,hour,php,New York,Assistant Group Leader
+,entry,"New York, NY 10018 ",,35000.0,35000.0,year,php,New York,Entry-Level Sales Assistant
+The Equity Project Charter School,entry,"New York, NY",4.3,125000.0,125000.0,year,php,New York,Physical Education Teacher (Middle School)
+Partners Health Plan,entry,"New York, NY",,80000.0,90000.0,year,php,New York,Executive Assistant (CEO)
+US Department of the Treasury,entry,"New York, NY",4.0,85810.0,132649.0,year,php,New York,Criminal Investigator (Special Agent)
+Geloky.com,entry,"New York, NY",,70000.0,90000.0,year,php,New York,PHP Developer
+US Department of the Treasury,entry,"West Point, NY",4.0,24.59,28.69,hour,php,New York,Metal Forming Machine Operator (Coin Manufacturer)
+The Equity Project Charter School,entry,"New York, NY",4.3,65000.0,75000.0,year,php,New York,"Pre-K, Kindergarten, 1st Grade, 2nd Grade, 3rd Grade, or 4th..."
+"Gateway Counseling Center, Inc.",entry,"Queens, NY",,15.0,15.0,hour,php,New York,Matron - Queens Location
+Woofs 'n Whiskers,entry,"Brooklyn, NY 11231",3.3,15.0,15.0,hour,php,New York,Kennel Hand (Morning Expeditor)
+Woofs 'n Whiskers,entry,"Brooklyn, NY 11231",3.3,15.0,17.0,hour,php,New York,Front Desk Associate
+Insider Inc,entry,"New York, NY 10016 ",,18.0,18.0,hour,php,New York,"Business Insider web production fellow, freelance (FALL/WINT..."
+US Department of the Army,entry,"Fort Drum, NY",4.4,50000.0,60000.0,year,php,New York,Program Administrator (BOSS) NF-04
+"TransparentBusiness, Inc.",entry,"New York, NY 10105 ",,125000.0,125000.0,year,php,New York,"Vice President SaaS Sales, Uncapped Commission"
+"Midtown Comics, Inc.",entry,"New Hyde Park, NY 11040",,50000.0,50000.0,year,php,New York,Entry Level Web App Developer
+"Levi & Korsinsky, LLP",entry,"New York, NY",,52000.0,52000.0,year,php,New York,Web Developer/Programmer
+"Talon Holdings, LLC",entry,"Jacksonville, FL 32202 ",,40000.0,45000.0,year,php,Florida,Web and Graphic Designer
+Galilee Lighting,entry,"Hollywood, FL 33020",,500.0,500.0,week,php,Florida,Web Designer/Developer
+Excel Impact,entry,"North Miami, FL 33161",,60000.0,85000.0,year,php,Florida,Full Stack Software Engineer
+MasterCorp,entry,"Cape Canaveral, FL 32920",,11.0,11.0,hour,php,Florida,Housekeeping Supervisor
+Superior Sources,entry,"Sanford, FL",,12.0,14.0,hour,php,Florida,Web Developer
+Agency Marketing Machine,entry,"Miami, FL 33137 ",3.7,50000.0,50000.0,year,php,Florida,Web and Branding Graphic Designer
+Zgraph Design & Marketing,entry,"Daytona Beach, FL",,35000.0,50000.0,year,php,Florida,Graphic Designer / Web Design & Marketing
+Synergy Cleaning Solutions LLC,entry,"Sunrise, FL 33323",,11.0,15.0,hour,php,Florida,Limpieza de Casas / House Cleaner / Maid
+RIVERSIDE RECOVERY OF TAMPA,entry,"Tampa, FL 33603 ",1.8,13.5,14.5,hour,php,Florida,PRN Behavioral Health Tech (BHT)
+Rocket Marketing and Design,entry,"Miami, FL 33186",,22.0,24.0,hour,php,Florida,Web Developer
+DanaTyler LLC,entry,"Fort Myers, FL 33901",,10.0,10.0,hour,php,Florida,Sales Associate
+"Sheriffs Ranches Enterprises, Inc.",entry,"Leesburg, FL 34748",,10.0,10.0,hour,php,Florida,Customer Service Representative I-PT18hpw
+"Service Management Solutions for Children, Inc",entry,"Gainesville, FL 32607",,48000.0,59500.0,year,php,Florida,Budget Manager
+Florida Sheriffs Youth Ranches,entry,"Bartow, FL 33830",,11.0,11.0,hour,php,Florida,Youth Care Assistant/Scholarship House
+Excel Impact,entry,"North Miami, FL 33161",,60000.0,85000.0,year,php,Florida,Full Stack Software Developer
+theCoderSchool - Sarasota,entry,"Lakewood Ranch, FL",,16.0,24.0,hour,php,Florida,Code Coach
+Invel,entry,"Orlando, FL 32827 ",,11.0,15.0,hour,php,Florida,Entry Level Graphic/Web Designer (Print & Web)
+Tinker Graphics & Marketing,entry,"DeLand, FL",,11.0,14.0,hour,php,Florida,Website Developer
+Florida Sheriffs Youth Ranches,entry,"Live Oak, FL 32060",,32750.0,32750.0,year,php,Florida,Teacher
+"Sheriffs Ranches Enterprises, Inc.",entry,"Ocala, FL 34481",,10.5,10.5,hour,php,Florida,Field Representative Assistant & Driver-FT40hpw
+"Bright Stop, Corp.",entry,"Venice, FL",,15.0,20.0,hour,php,Florida,Web Designer/Developer
+Superior Fence and Rail,entry,"Jacksonville, FL 32254",4.7,14.0,15.0,hour,php,Florida,Fence Installer
+"Islamorada, Village of Islands",entry,"Islamorada, FL 33036",,14.0,15.0,hour,php,Florida,Founders Park - Part Time Attendant Program Assistant
+"TransparentBusiness, Inc.",entry,"Miami, FL 33124",,125000.0,125000.0,year,php,Florida,"Vice President SaaS Sales, Uncapped Commission"
+SPCA Tampa Bay,entry,"Saint Petersburg, FL",3.1,10.26,10.26,hour,php,Florida,Animal Client Care Specialist
+"Punchey, Inc.",entry,"Miami Beach, FL 33141",,15.0,25.0,hour,php,Florida,Web Developer
+Taxfyle,entry,"Coral Gables, FL 33134",,12.0,15.0,hour,php,Florida,Web Developer Intern
+ADVFN,entry,"Tallahassee, FL",,40000.0,60000.0,year,php,Florida,"Web Application Developer (PHP, JS)"
+AmDep Holdings LLC,entry,"Boca Raton, FL",,11.0,13.0,hour,php,Florida,Customer Service Representative
+Food & Water Watch,entry,"Miami, FL",3.6,36500.0,48900.0,year,php,Florida,Temporary Miami Organizer
+RIVERSIDE RECOVERY OF TAMPA,entry,"Tampa, FL 33603 ",1.8,14.5,14.5,hour,php,Florida,Behavioral Health Tech (BHT) Third Shift
+Southeastern Traffic Supply,entry,"Tampa, FL 33610",2.5,11.0,14.0,hour,php,Florida,Traffic Control Specialist/Flagger
+Southeastern Traffic Supply,entry,"West Palm Beach, FL",2.5,11.0,11.0,hour,php,Florida,Traffic Control Specialist
+Southeastern Traffic Supply,entry,"West Palm Beach, FL",2.5,11.0,14.0,hour,php,Florida,Traffic Control Technician/Flagger
+Rocket Marketing and Design,entry,"Miami, FL 33186",,22.0,24.0,hour,php,Florida,Wordpress Developer
+Group III International,entry,"Pompano Beach, FL 33069",3.3,75000.0,75000.0,year,php,Florida,Front-End Web Developer
+US Department of the Army,entry,"Lake Buena Vista, FL",4.4,50000.0,54000.0,year,php,Florida,INFORMATION TECHNOLOGY SPECIALIST (NETWORK)
+Florida Sheriffs Youth Ranches,entry,"Live Oak, FL 32060",,11.0,11.0,hour,php,Florida,Youth Care Assistant - Full Time
+Sreyo Inc,entry,"Tallahassee, FL",,50.0,55.0,hour,php,Florida,Web Application Programmer - Entry Level
+SPCA Tampa Bay,entry,"Largo, FL",3.1,11.0,11.0,hour,php,Florida,Animal Transport Driver
+Rocket Marketing and Design,entry,"Miami, FL 33186",,21.0,24.0,hour,php,Florida,Front End Developer
+MSLGROUP Germany,entry,"Fort Lauderdale, FL",,20.0,20.0,hour,php,Florida,Entry Level PHP Developer
+Leesburg Police Department,entry,"Leesburg, FL",3.7,35464.0,47000.0,year,php,Florida,Leesburg Police Department Dispatcher
+Manatee County Clerk of Circuit Court & Comptrolle...,entry,Florida,,12.45,12.45,hour,php,Florida,Part-Time Maintenance/PHP & MCAM
+US Department of the Navy,entry,"Jacksonville, FL 32208 ",4.3,51440.0,66868.0,year,php,Florida,FACILITIES ADMINISTRATIVE ASSISTANT
+Dealers United,entry,"Sarasota, FL 34236",,40000.0,60000.0,year,php,Florida,PHP Developer
+MSLGROUP Germany,entry,"Fort Lauderdale, FL",,20.0,20.0,hour,php,Florida,Entry Level Software Developer
+US Department of the Air Force,entry,"Eglin AFB, FL",4.5,37843.0,49200.0,year,php,Florida,SECRETARY (OFFICE AUTOMATION)
+US Department of Justice,entry,"Miami, FL 33130 ",4.2,54753.0,86124.0,year,php,Florida,Law Enforcement Coordination Specialist (Community Outreach...
+US Department of Justice,entry,"Tampa, FL",4.2,24773.0,35139.0,year,php,Florida,Student Trainee (Clerical)
+US Department of the Air Force,entry,"Homestead AFB, FL",4.5,66245.0,86124.0,year,php,Florida,HISTORIAN
+US Department of Homeland Security,entry,"Pensacola, FL",3.8,33949.0,61122.0,year,php,Florida,Student Trainee (IT Management)
+US Department of the Navy,entry,"Jacksonville, FL 32208 ",4.3,74596.0,96978.0,year,php,Florida,CONTRACT SPECIALIST
+US Department of Health And Human Services,entry,"Jacksonville, FL 32256",4.1,14.54,18.9,hour,php,Florida,Student Trainee (Auditor)
+US Other Agencies and Independent Organizations,entry,"Tampa, FL",4.5,123298.0,160286.0,year,php,Florida,DIRECTOR â€“ ECOSYSTEM RESTORATION PROGRAMS
+"Main Street Softworks, Inc.",entry,Florida,,65000.0,105000.0,year,php,Florida,Base Requirements:
+bkissel@cticonsulting.net,entry,"Fort Lauderdale, FL",,65000.0,80000.0,year,php,Florida,Technical Support II
+US Department of the Air Force,entry,"Eglin AFB, FL",4.5,42053.0,54670.0,year,php,Florida,UNIT PROGRAM COORDINATOR
+Florida Sheriffs Youth Ranches,entry,"Bartow, FL 33830",,53500.0,53500.0,year,php,Florida,Cottage Parents
+US Other Agencies and Independent Organizations,entry,"Tampa, FL",4.5,123298.0,160286.0,year,php,Florida,SUPERVISORY GRANTS MANAGEMENT SPECIALIST (PROGRAM DIRECTOR -...
+SPCA Tampa Bay,entry,"Largo, FL",3.1,10.26,10.26,hour,php,Florida,Animal Care Attendant
+US Department of the Air Force,entry,"Hurlburt Field, FL",4.5,88704.0,115313.0,year,php,Florida,PROGRAM ANALYST
+Care Provider Network LLC,entry,"Hollywood, FL 33020",,30000.0,40000.0,year,php,Florida,Administrative Assistant
+US Department of the Air Force,entry,"Eglin AFB, FL",4.5,51440.0,66868.0,year,php,Florida,HUMAN RESOURCES SPECIALIST (MILITARY)
+AmDep Holdings LLC,entry,"Kissimmee, FL 34758",,12.0,13.0,hour,php,Florida,Assistant Small Arms Ammunition Manufacturer
+UPDATED FURNITURE,entry,"Fort Lauderdale, FL 33328",3.5,20.0,25.0,hour,php,Florida,Senior Web Developer
+International Leadership of Texas,entry,"Houston, TX",3.3,46000.0,54500.0,year,php,Texas,ILTexas Hiring - HS Computer Science/Robotics Teacher - Katy...
+Texas Kids Home Therapy & Nursing,entry,"San Antonio, TX",4.6,18.0,34.0,hour,php,Texas,LVN and RN Pediatric Home Health
+"QSROnline.com, Inc.",entry,"Corpus Christi, TX",,15000.0,20000.0,year,php,Texas,Web Developer
+Delta Freight Systems LLC,entry,"Dallas-Fort Worth, TX",,250000.0,300000.0,year,php,Texas,Owner Operator Truck Driver 88% OTR
+Herbal Goodness,entry,"McKinney, TX 75069",,1200.0,1200.0,month,php,Texas,AWS & JavaScript and Python Web Application Developer
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Brownwood, TX 76801",3.1,4093.0,4093.0,month,php,Texas,TJJD - Post-Doctoral Mental Health Professional for Forensic...
+Stephens Memorial Hospital,entry,"Breckenridge, TX 76424",3.6,25.0,35.0,hour,php,Texas,Registered Nurse (RN) Med/Surg - Day shift
+Kett Engineering,entry,"Corpus Christi, TX",3.6,15.0,15.0,hour,php,Texas,CDL-Class B Driver
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Giddings, TX",3.1,2595.0,2595.0,month,php,Texas,TJJD - Investigator II - Hearing Specialist (GID) - 7100
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Brownwood, TX 76801",3.1,6308.0,6308.0,month,php,Texas,TJJD - Psychologist I / II for Forensic Services - (BWD) - 7...
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Austin, TX 78758 ",3.1,3763.0,3763.0,month,php,Texas,TJJD - Management Analyst II - Performance Improvement Speci...
+Quick Internet Software Solutions,entry,"College Station, TX",4.5,60000.0,80000.0,year,php,Texas,Full-Stack Web Developer with Front-End Focus
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Brownwood, TX 76801",3.1,2443.0,2443.0,month,php,Texas,TJJD - Cook III (BWD) - 6968
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Brownwood, TX 76801",3.1,2595.0,2595.0,month,php,Texas,TJJD - Investigator II - Hearing Specialist (BWD) - 7061
+CSAT SOLUTIONS LP,entry,"Houston, TX 77040",2.5,10.5,10.5,hour,php,Texas,Quality Control Inspector - Computer Components
+University of Texas at Austin,entry,"Austin, TX",4.3,13.47,13.47,hour,php,Texas,Graphic Designer/Web Intern
+American Dream Vacations,entry,"Boerne, TX 78006",3.5,11.0,18.0,hour,php,Texas,RV Technician/Mechanic - Paid Training
+Zinda Law Group,entry,"Midland, TX 79703",4.0,50.0,50.0,hour,php,Texas,"Intake Attorney (Contract) - Midland, Texas"
+Seven Seventeen LLC,entry,"Houston, TX",,72000.0,72000.0,year,php,Texas,1099 or W-2 For Flatbed Driver 8 Days Out
+MEI Autogroup,entry,"Dallas, TX 75215",,2000.0,2000.0,month,php,Texas,AUTO SALES REPRESENTATIVE
+Custom by Sock Club,entry,"Austin, TX",,55000.0,95000.0,year,php,Texas,"Web/Software Developer, Marketing"
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Giddings, TX",3.1,2194.0,2194.0,month,php,Texas,TJJD - Security Officer III - OIG Security Officer III (GID)...
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Edinburg, TX",3.1,2453.0,2453.0,month,php,Texas,TJJD - Security Officer IV - OIG Security Officer IV (EVN) -...
+Wyzant,entry,"Houston, TX 77039",4.0,24.0,30.0,hour,php,Texas,PHP Tutoring/Teaching
+US Department of the Army,entry,"Fort Hood, TX",4.4,69947.0,108992.0,year,php,Texas,Air Traffic Control Specialist (Terminal)
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Roanoke, TX",3.1,2443.0,2443.0,month,php,Texas,TJJD - Cook III (HMF) - 6974
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Mart, TX",3.1,2595.0,2595.0,month,php,Texas,TJJD - Investigator II - Hearing Specialist (MCL) - 7062
+MapFunnels.io,entry,"Houston, TX",,10.0,15.0,hour,php,Texas,Web Designer Intern
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Edinburg, TX",3.1,2443.0,2443.0,month,php,Texas,TJJD - Cook III (EVN) - 7477
+"CMCg E-Solutions, LLC",entry,"San Antonio, TX",,10.0,15.0,hour,php,Texas,Web Designer/Developer-iNTERN
+MEI Autogroup,entry,"Arlington, TX",,40.0,40.0,hour,php,Texas,Mechanic
+Computer Staff,entry,"Grapevine, TX 76051",,55000.0,100000.0,year,php,Texas,"RECRUITER – IT, web/mobile/database dev"
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Gainesville, TX 76240",3.1,3127.0,3127.0,month,php,Texas,TJJD - Substance Abuse Counselor I/II - Alcohol or Other Dru...
+Pop-A-Lock,entry,"Austin, TX",3.0,600.0,800.0,week,php,Texas,Roadside Technician
+Safeway Driving,entry,"Bellaire, TX 77401",,14.0,14.0,hour,php,Texas,Driving Instructor- Part/Full Time
+CSAT SOLUTIONS LP,entry,"Houston, TX 77064",2.5,10.0,10.0,hour,php,Texas,Computer Test Operator
+Bee Safe Bee Removal,entry,"Dallas, TX",,12.0,15.0,hour,php,Texas,Web Development Intern
+FabCorp,entry,"Houston, TX 77040",3.1,12.0,15.0,hour,php,Texas,Maintenance Worker
+Stephens Memorial Hospital,entry,"Graham, TX 76450",3.6,25.0,35.0,hour,php,Texas,Registered Nurse (RN) Med/Surg
+Getinsured,entry,"Irving, TX 75062",3.3,50000.0,60000.0,year,php,Texas,Web Developer
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Brownwood, TX 76801",3.1,2453.0,2453.0,month,php,Texas,TJJD - Security Officer IV - OIG Security Officer IV (BWD) -...
+CSAT SOLUTIONS LP,entry,"Houston, TX 77041",2.5,10.0,10.0,hour,php,Texas,Loss Prevention Security
+US Department of the Air Force,entry,"Randolph AFB, TX",4.5,51617.0,67099.0,year,php,Texas,HUMAN RESOURCES SPECIALIST (HRD)
+Lightning Step Technologies,entry,"Houston, TX 77057 ",,70000.0,80000.0,year,php,Texas,Software Developer
+"Zinda Law Group, PLLC",entry,"Austin, TX 78759 ",4.0,17.0,17.0,hour,php,Texas,Entry Level Paralegal - Austin
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Mart, TX",3.1,2194.0,2194.0,month,php,Texas,TJJD - Security Officer III - OIG Security Officer III (MCL)...
+US Department of the Air Force,entry,"Randolph AFB, TX",4.5,62451.0,81192.0,year,php,Texas,HUMAN RESOURCES SPECIALIST (MILITARY)
+Pop-A-Lock,entry,"Bryan, TX",3.0,400.0,600.0,week,php,Texas,Roadside Assistance Technician
+Fortune minds Inc,entry,"Frisco, TX",,50.0,60.0,hour,php,Texas,Java Full Stack Developer
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Giddings, TX",3.1,3020.0,3020.0,month,php,Texas,TJJD - Youth Development Coach III-V (GID) - 6903
+US Department of the Air Force,entry,"Randolph AFB, TX",4.5,89011.0,115711.0,year,php,Texas,SUPV PROGRAM ANALYST
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Roanoke, TX",3.1,3500.0,3500.0,month,php,Texas,TJJD Health Specialist II/III-Mental Health Specialist HWH-P...
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Gainesville, TX 76240",3.1,2194.0,2194.0,month,php,Texas,TJJD - Security Officer III - OIG Security Officer III (GNS)...
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Brownwood, TX 76801",3.1,1982.0,1982.0,month,php,Texas,TJJD - Teacher Aide I-II-III (BWD) - 7785
+FabCorp- Hippo Hopper,entry,"Tomball, TX 77377",3.1,18.0,22.0,hour,php,Texas,Industrial Painter
+theCoderSchool,entry,"Frisco, TX 75033",4.3,15.0,20.0,hour,php,Texas,Code Coach
+FabCorp,entry,"Houston, TX 77040",3.1,15.0,18.0,hour,php,Texas,Machine Operator- CNC
+University of Houston,entry,"Houston, TX",4.3,3442.0,4388.0,month,php,Texas,Web Developer 2
+US Department of the Air Force,entry,"Fort Sam Houston, TX",4.5,51617.0,67099.0,year,php,Texas,HUMAN RESOURCES SPECIALIST (EMPLOYEE RELATIONS)
+JuiceLand,entry,"Georgetown, TX",4.1,12.5,12.5,hour,php,Texas,Juice Barista
+Twisted Interiors,entry,"Spring, TX 77380",,500.0,700.0,week,php,Texas,Wordpress Web Developer
+Creative 7 Designs,entry,"Lufkin, TX",,8.0,15.0,hour,php,Texas,Customer Support Representative
+US Department of the Treasury,entry,"Fort Worth, TX",4.0,80103.0,104138.0,year,php,Texas,Electrical Engineer
+Bexar County,entry,"San Antonio, TX",3.7,4796.0,4796.0,month,php,Texas,Applications Developer I
+TriSMART Solar LLC.,entry,"Fort Worth, TX 76148",,12.0,16.0,hour,php,Texas,CSR/Permit Coordinator Position
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Roanoke, TX",3.1,3127.0,3127.0,month,php,Texas,TJJD - Substance Abuse Counselor I/II - Alcohol or Other Dru...
+Zinda Law Group,entry,"Austin, TX",4.0,17.0,17.0,hour,php,Texas,Entry Level Paralegal
+US Department of the Air Force,entry,"Randolph AFB, TX",4.5,51617.0,67099.0,year,php,Texas,MANAGEMENT ANALYST
+Foster Web,entry,"Dallas, TX",,20.0,20.0,hour,php,Texas,Junior Web Developer
+Dept of State Health Services,entry,"Harlingen, TX 78550",3.4,4023.0,4954.0,month,php,Texas,Program Specialist V
+MSB Consulting,entry,"Austin, TX",2.2,55000.0,60000.0,year,php,Texas,Web Developer
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Edinburg, TX",3.1,3763.0,3763.0,month,php,Texas,TJJD - Investigator V - Deputy Inspector General (EVN) - 751...
+Baptist Hospitals of Southeast Texas,entry,"Beaumont, TX",3.8,230000.0,270000.0,year,php,Texas,Staff Psychiatrist
+US Department of Justice,entry,"Fort Worth, TX",4.2,36456.0,58707.0,year,php,Texas,Office Automation Assistant
+Cyber clinic,entry,"Granbury, TX 76048",,12.0,17.0,hour,php,Texas,PHP Cloud Development Intern
+FabCorp,entry,"Tomball, TX 77375",3.1,15.0,20.0,hour,php,Texas,Warehouse Worker
+US Department of the Interior,entry,"Alamo, TX 78577",4.2,42053.0,54670.0,year,php,Texas,Park Ranger
+US Department of Justice,entry,"Dallas, TX",4.2,55237.0,71805.0,year,php,Texas,Paralegal Specialist
+US Department of the Air Force,entry,"Lackland AFB, TX",4.5,51617.0,67099.0,year,php,Texas,WORK/LIFE SPECIALIST
+SConcept,entry,"Carrollton, TX",,73000.0,78000.0,year,php,Texas,Training and Placement on Software Development
+US Department of Agriculture,entry,"Fort Worth, TX",4.1,132402.0,166500.0,year,php,Texas,Supervisory Rangeland Management Specialist
+SConcept,entry,"Carrollton, TX",,74000.0,78000.0,year,php,Texas,Entry Level Java Full Stack Developers
+FrogSlayer,entry,"College Station, TX 77840",,25.0,25.0,hour,php,Texas,Jr. Software Developer
+CSAT SOLUTIONS LP,entry,"Houston, TX 77064",2.5,9.5,9.5,hour,php,Texas,Entry level Material Handler
+US Department of the Treasury,entry,"Fort Worth, TX",4.0,80103.0,104138.0,year,php,Texas,Mechanical Engineer
+US Department of the Treasury,entry,"Fort Worth, TX",4.0,80103.0,123826.0,year,php,Texas,General Engineer
+Creative 7 Designs,entry,"Nacogdoches, TX",,8.0,15.0,hour,php,Texas,Customer Service Representative
+Montgomery County Animal Shelter,entry,"Huntsville, TX",4.1,14.4,14.4,hour,php,Texas,Animal Care Technician
+Hammond Technical Services,entry,"Houston, TX 77092 ",3.1,15.0,17.0,hour,php,Texas,Shipping & Receiving Warehouse
+Hale CPA Group,entry,"Austin, TX 78759 ",,35000.0,40000.0,year,php,Texas,"Bookkeeper (Ooh aah, check out this one! It's perfect.)"
+US Department of the Air Force,entry,"Lackland AFB, TX",4.5,34067.0,44283.0,year,php,Texas,HUMAN RESOURCES ASSISTANT (MILITARY/OA)
+US Department of the Air Force,entry,"Lackland AFB, TX",4.5,51617.0,67099.0,year,php,Texas,REALTY SPECIALIST
+US Department of the Air Force,entry,"Fort Sam Houston, TX",4.5,37973.0,49370.0,year,php,Texas,SUPPLY TECHNICIAN (OFFICE AUTOMATION)
+Lawyer Legion,entry,"Houston, TX",,14.0,16.0,hour,php,Texas,Entry Level Data Analyst for Lawyer Legion (Houston)
+FabCorp,entry,"Houston, TX 77040",3.1,15.0,21.0,hour,php,Texas,QC Inspector II
+TEXAS JUVENILE JUSTICE DEPARTMENT,entry,"Midland, TX",3.1,3247.0,3247.0,month,php,Texas,TJJD - Parole Officer III (RMI) - 7327
+FabCorp,entry,"Houston, TX 77040",3.1,18.0,21.0,hour,php,Texas,Machinist 4th & 5th Axis
+"Zinda Law Group, PLLC",entry,"Midland, TX 79703",4.0,30.0,30.0,hour,php,Texas,Legal Intake Coordinator (Contract) - Midland
+"Seal It Services, Inc.",entry,"Gardena, CA 90249",,50000.0,60000.0,year,php,California,Digital Marketing & Web Developer
+Englobe,entry,"Stockton, CA",,12.0,13.0,hour,php,California,Web Designer
+Wealth Harbor Insurance Solutions,entry,"Redlands, CA",,75000.0,85000.0,year,php,California,Life Insurance Broker
+Addison-Penzak JCC,entry,"Los Gatos, CA 95032",4.0,12.0,14.0,hour,php,California,Child Care Attendants
+Osher Marin Jewish Community Center,entry,"San Rafael, CA 94903",3.4,13.0,25.0,hour,php,California,Swim Instructor
+The Harker School,entry,"San Jose, CA 95117 ",4.6,17.0,19.0,hour,php,California,After School Rec Leader (MS BEST)
+PORTIA BELL HUME BEHAVIORAL HEALTH AND TRAINING CE...,entry,"Richmond, CA",,115000.0,157000.0,year,php,California,PSYCHIATRIC NURSE PRACTITIONER
+The Coder School - Cerritos / La Palma,entry,"Cerritos, CA",,15.0,20.0,hour,php,California,Coding Instructor (Part-Time)
+Behavioral and Educational Strategies and Training...,entry,"Modesto, CA 95350",4.4,13.0,18.0,hour,php,California,Behavior Technician ($250 Bonus For RBT/BCAT)
+Fit Kids America,entry,"Poway, CA",4.2,16.75,20.0,hour,php,California,Cheerleading and Hip Hop Coaches for After School Enrichment...
+Mills College,entry,"Oakland, CA 94613 ",4.0,15.0,18.0,hour,php,California,Head Lifeguard
+Psychiatric Alternatives and Wellness Center,entry,"San Francisco Bay Area, CA",,95.0,95.0,hour,php,California,Licensed Psychologist
+"Vista InfoTech, Inc.",entry,"Temple City, CA",,25000.0,30000.0,year,php,California,IT Technician/Help Desk
+Angeles Place LLC // tripperebikes.com,entry,"Venice, CA",,12.0,25.0,hour,php,California,Online Marketing Specialist / B2B Sales / Ecommerce
+DealsADay Inc.,entry,"Industry, CA",,48000.0,48000.0,year,php,California,E-commerce Website Administrator - Magento Experience Requir...
+"SLS Consulting, Inc.",entry,"Pasadena, CA 91103",,20.0,25.0,hour,php,California,Web and Graphic Designer
+Think Strategy,entry,"Costa Mesa, CA 92626",,12.5,15.5,hour,php,California,Jr. Web Developer and Marketing Paid Internship
+"Spotlight Therapy, Inc.",entry,"Los Gatos, CA 95030",,24.0,24.0,hour,php,California,Behavior Intervention Specialist / Early Start FULL-TIME
+SAN FERNANDO VALLEY COMMUNITY MENTAL HEALTH CENTER...,entry,"Van Nuys, CA 91405",,50000.0,52000.0,year,php,California,Marriage & Family Therapy Intern or RASCW (MH Clinician I) -...
+Mills College,entry,"Oakland, CA 94613 ",4.0,17.0,17.0,hour,php,California,After School Tutor/TA
+University of California Berkeley,entry,"Berkeley, CA",4.2,60350.0,60350.0,year,php,California,Postdoctoral Scholar-Natural Resource Economics & Political...
+theCoderSchool Redwood City,entry,"Redwood City, CA 94063",,20.0,40.0,hour,php,California,Instructor / Code Coach at theCoderSchool
+Collective Choice,entry,"Garden Grove, CA 92844",,13.0,14.0,hour,php,California,Customer Service Representative (Bilingual Vietnamese)
+Mills College,entry,"Oakland, CA 94613 ",4.0,25.0,25.0,hour,php,California,Maintenance Tech-Truck Driver
+Osher Marin Jewish Community Center,entry,"San Rafael, CA 94903",3.4,13.0,17.0,hour,php,California,Life Guards
+The Harker Middle School,entry,"San Jose, CA 95117 ",4.6,16.0,18.0,hour,php,California,Middle School Enrichment & Supervision Leader
+Vista Hill Foundation,entry,"San Diego, CA 92115",,18.0,22.0,hour,php,California,Substance Use Disorder Counselor
+"Plaza de la Raza Child Development Services, Inc.",entry,"Pico Rivera, CA 90660",,16.45,18.86,hour,php,California,Home Visitor
+National Center for Lesbian Rights - NCLR,entry,"San Francisco, CA",,20.5,22.0,hour,php,California,Legal Assistant
+DK Holdings,entry,"San Diego, CA",,11.5,15.5,hour,php,California,Technical Support
+Sunfood,entry,"El Cajon, CA",2.3,50000.0,54000.0,year,php,California,Social Media Coordinator
+Children's Council of SF,entry,"San Francisco, CA 94114 ",,40000.0,44000.0,year,php,California,"Family Subsidy Specialist II ""Bilingual English/Spanish"""
+Duke's Malibu,entry,"Malibu, CA 90265",,14.25,14.25,hour,php,California,Busser/Food Runner
+PayCafe,entry,"Sherman Oaks, CA",,90000.0,100000.0,year,php,California,Software Developer
+Quad County HR,entry,"Midway City, CA 92655",,13.0,15.0,hour,php,California,Packing Clerk (Shipping/Warehouse)
+Progress Foundation,entry,"San Francisco, CA",3.5,21.08,21.08,hour,php,California,Loso Counselor- Temporary Role
+Doctor Genius,entry,"Lake Forest, CA",,16.0,18.0,hour,php,California,HTML Developer | CSS Mobile First | Front End
+Greenway Properties,entry,"Irvine, CA 92618",,60840.0,60840.0,year,php,California,Web Developer
+Taylor Houseman Inc.,entry,"Pittsburg, CA 94565",,17.0,18.0,hour,php,California,Installation Technician
+Mills College,entry,"Oakland, CA 94613 ",4.0,17.0,17.0,hour,php,California,Peer Advisor
+Sumanth Inc,entry,"San Francisco, CA",,35.0,50.0,hour,php,California,Web Designer
+"Commercial Fire Protection, Inc.",entry,"Irvine, CA",2.8,18.0,20.0,hour,php,California,Projects and Service Coordinator
+Quandary Peak Research,entry,"Los Angeles, CA",,150000.0,150000.0,year,php,California,Software Litigation Consultant
+"University Enterprises, Inc.",entry,"Sacramento, CA",4.1,13.0,19.0,hour,php,California,Student Assistant - IT Support
+Channelstars,entry,"Newport Beach, CA 92660",,15.0,25.0,hour,php,California,Web Designer/Content Manager
+Progress Foundation,entry,"San Francisco, CA 94103 ",3.5,21.08,21.08,hour,php,California,Dore Residence Counselor
+Otcmarketpro,entry,"Los Angeles, CA",,70000.0,80000.0,year,php,California,Java Developer
+Progress Foundation,entry,"San Francisco, CA 94103 ",3.5,3981.0,3981.0,month,php,California,Clinical Counselor- Dore Urgent Care Clinic
+Amtrak,entry,"Los Angeles, CA 90012",3.8,68000.0,75000.0,year,php,California,Police Officer - 90125452 - Los Angeles
+Allstate Floral Inc.,entry,"Cerritos, CA 90703",,80000.0,85000.0,year,php,California,Full Stack Web Developer
+Pointman Technologies; T.I.T ENG,entry,"Camarillo, CA 93012",,17.0,20.0,hour,php,California,Accounting Assistant/Bookkeeper
+Zips Dry Cleaners,entry,"Huntington Beach, CA",,12.0,12.0,hour,php,California,Customer Service Associate
+Red Wolf Ent,entry,"Irvine, CA",,20000.0,100000.0,year,php,California,Full Stack Web Developer
+Terralogic Solutions Inc,entry,"San Jose, CA",,50000.0,75000.0,year,php,California,Graphic/Web Designer
+West Advanced Technologies (WATI),entry,"Manhattan Beach, CA",,71531.0,71531.0,year,php,California,Computer Programmer/Software Developer
+Pixel Motion,entry,"Irvine, CA",5.0,17.0,17.0,hour,php,California,Junior Web Developer
+Homeroom Mac + Cheese,entry,"Oakland, CA 94609 ",,16.79,16.79,hour,php,California,"Cashier, Busser, Host"
+Enriching Lives,entry,"Sacramento, CA",,15.0,16.0,hour,php,California,Direct Support Professional
+Chabot - Las Positas Community College District,entry,"Hayward, CA 94545 ",3.4,62035.0,88687.0,year,php,California,Librarian (Emphasis in User Experience and Technology)
+Capital Public Radio,entry,"Sacramento, CA 95826",4.2,70000.0,75000.0,year,php,California,Web Developer
+Los Angeles Superior Court,entry,"Los Angeles County, CA",4.3,6823.0,7203.0,month,php,California,Law Clerk (Bar Member) Limited Term
+Kett Engineering,entry,"Sunnyvale, CA",3.6,34.0,35.0,hour,php,California,Engineering Technician - Electrical
+Initiate.ai,entry,"Woodland Hills, CA 91367",,32000.0,40000.0,year,php,California,Web Developer Intern
+Ohlone College,entry,"Fremont, CA 94539",4.3,62.47,93.39,hour,php,California,Adjunct Faculty Pool - Computer Science
+Enriching Lives,entry,"Bakersfield, CA 93309",,19.0,21.0,hour,php,California,Social Work Coordinator
+Homeroom Mac + Cheese,entry,"Oakland, CA 94609 ",,18.0,18.0,hour,php,California,FOH Manager / Lead Cashier
+SAN FERNANDO VALLEY COMMUNITY MENTAL HEALTH CENTER...,entry,"Van Nuys, CA 91405",,15.25,15.73,hour,php,California,Staff Assistant I - SAPC Drug Medical
+Progress Foundation,entry,"San Francisco, CA",3.5,21.08,21.08,hour,php,California,Counselor -Cortland
+Benchmark Transitions,entry,"Redlands, CA 92374",4.0,17.5,20.0,hour,php,California,Biller - Claims Follow up/VOB
+Zoom Medical Transportation,entry,"Compton, CA 90221",,2000.0,2500.0,month,php,California,Web Developer
+Mills College,entry,"Oakland, CA 94613 ",4.0,22.0,22.0,hour,php,California,"Administrative Assistant, Center for Student Leadership, Equ..."
+US Department of the Navy,entry,"Marine Corps Air Station Miramar, CA",4.3,69301.0,107986.0,year,php,California,LEAD HUMAN RESOURCES SPECIALIST (RECRUITMENT & PLACEMENT)
+Homeroom Mac + Cheese,entry,"Oakland, CA 94609 ",,18.0,18.0,hour,php,California,Front of House Lead
+"Commercial Fire Protection, Inc.",entry,"San Francisco, CA",2.8,60000.0,65000.0,year,php,California,Executive Assistant to the President
+Superior Restoration,entry,"Santa Ana, CA 92704",,15.0,30.0,hour,php,California,Water Restoration Technician - Great Benefits
+Montessori School of Silicon Valley,entry,"Milpitas, CA 95035",,60000.0,80000.0,year,php,California,Head of School
+Tenderloin Housing Clinic,entry,"San Francisco, CA 94102 ",3.4,18.0,18.0,hour,php,California,Maintenance Worker
+Tenderloin Housing Clinic,entry,"San Francisco, CA 94102 ",3.4,16.5,16.5,hour,php,California,Janitor
+Los Angeles Superior Court,entry,"Los Angeles County, CA",4.3,6183.0,6522.0,month,php,California,Law Clerk (Non-Bar Member) Limited Term
+The Alliance for Networking Visual Culture,entry,"Los Angeles, CA",,40.0,65.0,hour,php,California,Front End Web Developer
+Homeroom Mac + Cheese,entry,"Oakland, CA",,20.0,28.0,hour,php,California,Back of House (BOH) Manager
+"AmeriCare Health & Retirement, Inc.",entry,"Solana Beach, CA 92075",,45000.0,52000.0,year,php,California,Marketing Specialist: Graphic & Web Designer
+Myran LLC,entry,"Tustin, CA",,50000.0,65000.0,year,php,California,Web Developer
+Create Recovery Center,entry,"Los Angeles, CA 90066",,75000.0,80000.0,year,php,California,Clinical Director
+SLAPFISH Restaurant Group,entry,"Huntington Beach, CA 92648",,12.0,12.5,hour,php,California,Server/Waitstaff
+National Positions,entry,"Los Angeles, CA",4.2,40000.0,40000.0,year,php,California,SEO & Website Analyst
+California State University,entry,"Fullerton, CA 92831",4.3,70000.0,78000.0,year,php,California,Counselor
+"Accu-Image,inc.",entry,"Morgan Hill, CA 95037",,55000.0,75000.0,year,php,California,Software and database Implementation Specialist
+Sacred Heart Community Service,entry,"San Jose, CA 95110 ",4.5,1600.0,1600.0,month,php,California,La Mesa Verde Public Allies Americorps Member
+Bay Psychiatric Associates,entry,"Berkeley, CA 94704",,350000.0,350000.0,year,php,California,Psychiatric Hospitalist
+Evolve Treatment Center,entry,"Danville, CA",3.8,45000.0,60000.0,year,php,California,Discharge Coordinator
+Mills College,entry,"Oakland, CA 94613 ",4.0,49920.0,49920.0,year,php,California,Graduate Admission Counselor
+US Department of the Interior,entry,"Shasta, CA",4.2,74596.0,96978.0,year,php,California,Supervisory Fish Biologist
+UC San Diego,entry,"San Diego, CA",4.3,59700.0,90000.0,year,php,California,Web Application Developer
+"City of Los Angeles, CA",entry,"City of Los Angeles, CA",4.3,58986.0,93980.0,year,php,California,APPLICATIONS PROGRAMMER 1429 (B)
+The Camden Center,entry,"Los Angeles, CA",,19.0,25.0,hour,php,California,Billing Administrator
+Basil Creative,entry,"Santa Monica, CA 90405",,15.0,20.0,hour,php,California,Digital Project Coordinator
+Girl Scouts of Greater Los Angeles,entry,"Upland, CA 91786",4.1,20.6,23.9,hour,php,California,Volunteer Development (Support Specialist)
+Los Angeles Superior Court,entry,"Los Angeles County, CA",4.3,7028.0,8731.0,month,php,California,Mental Health Clinician (Family Court Services Specialist)
+Mills College,entry,"Oakland, CA 94613 ",4.0,23.0,23.0,hour,php,California,Painter
+"LAUNCH Productions, Inc",entry,"Los Angeles, CA",,20.0,25.0,hour,php,California,Web Designer/Developer
+Green Guard Services Inc,entry,"Escondido, CA 92025",,725.0,725.0,week,php,California,Kitchen Exhaust Associate
+PDFHero,entry,"Los Angeles, CA",,50000.0,80000.0,year,php,California,Web Developer
+"Connie Van Real Estate, Inc",entry,"Elk Grove, CA 95758",,40000.0,45000.0,year,php,California,Operations Manager
+Mills College,entry,"Oakland, CA 94613 ",4.0,50.0,50.0,hour,php,California,Part-Time Counselor with Focus on Latinx Students
+California State University,entry,"Fullerton, CA 92831",4.3,70000.0,78000.0,year,php,California,Psychology
+USC,entry,"Los Angeles, CA",4.2,25.64,28.2,hour,php,California,Web Developer
+Children's Council of SF,entry,"San Francisco, CA 94114 ",,40000.0,44000.0,year,php,California,Family Subsidy Specialist II
+Mills College,entry,"Oakland, CA 94613 ",4.0,18.5,18.5,hour,php,California,Public Safety Officer
+US Department of Agriculture,entry,"Davis, CA 95616 ",4.1,90621.0,117810.0,year,php,California,Management and Program Analyst
+US Department of the Interior,entry,"Needles, CA",4.2,84785.0,110224.0,year,php,California,Supervisory Wildlife Refuge Specialist
+Duke's Malibu,entry,"Malibu, CA 90265",,14.25,14.25,hour,php,California,Greeter/Hostess
+UC San Diego,entry,"San Diego, CA",4.3,63400.0,83250.0,year,php,California,Hydrometeorology Research Analyst 3
+Woods Humane Society,entry,"San Luis Obispo County, CA",3.9,17.0,17.0,hour,php,California,Critter Camp Manager
+Dot Com Media,entry,"Woodlandhills, CA",,17.0,19.0,hour,php,California,Administrative Assistant- Digital Media Firm
+Duke's La Jolla,entry,"La Jolla, CA 92037",3.6,15.0,16.0,hour,php,California,Dish Washer
+California State University,entry,"Rohnert Park, CA",4.3,4372.0,6356.0,month,php,California,E/PO Technologist
+Los Angeles County Department of Human Resources,entry,"Los Angeles, CA",4.2,62904.0,74013.0,year,php,California,INTERNAL AUDITOR / ACCOUNTANT-AUDITOR
+Pratt Retail Industries,entry,"Stockton, CA",,50000.0,60000.0,year,php,California,Production Manager
+"University of California, Santa Barbara",entry,"Santa Barbara, CA 93106",4.5,23.95,23.95,hour,php,California,Staff Research Associate II - Wetland
+US Department of the Treasury,entry,"San Francisco, CA",4.0,60874.0,89295.0,year,php,California,Police Officer
+Kett Engineering,entry,"Oxnard, CA",3.6,15.0,15.0,hour,php,California,"Test Driver - Oxnard, CA"
+The Stand Restaurants,entry,"Calabasas, CA 91302",,14.75,15.75,hour,php,California,Morning Dishwasher
+Fulton Crossing,entry,"Fulton, CA 95439",,17.0,25.0,hour,php,California,Digital and Social Media Assistant
+US Department of the Treasury,entry,"San Francisco, CA",4.0,78826.0,126874.0,year,php,California,POLICE OFFICER (DETECTIVE)
+US Department of the Air Force,entry,"Beale AFB, CA",4.5,55851.0,72602.0,year,php,California,HOUSING MANAGEMENT SPECIALIST
+Veracity Wireless,entry,"San Diego, CA 92121",,40.0,40.0,hour,php,California,React Developer for Fast Growing Tech Company
+US Department of Health And Human Services,entry,"San Francisco, CA",4.1,67816.0,117669.0,year,php,California,Head Start Program Specialist
+Rubberstick LLC,entry,"Irvine, CA",,60000.0,60000.0,year,php,California,Software Engineers for growing tech company
+Habeas Corpus Resource Center,entry,"San Francisco, CA 94105 ",4.5,5164.0,6277.0,month,php,California,Docket Specialist
+GMF,entry,"Los Angeles, CA",3.9,40.0,80.0,hour,php,California,PHP Developer
+US Department of the Navy,entry,"San Diego, CA",4.3,83063.0,128402.0,year,php,California,ADMINISTRATIVE SPECIALIST
+UC San Diego,entry,"San Diego, CA",4.3,50008.0,58506.0,year,php,California,Food Security Programs Coordinator
+"Agent Elite, Inc.",entry,"San Diego, CA",,37500.0,50000.0,year,php,California,In-House Junior Wordpress Web Developer | PHP | jQuery | CSS
+US Department of the Interior,entry,"Camarillo, CA",4.2,100820.0,131064.0,year,php,California,Renewable Energy Specialist
+California Energy Comission,entry,"Sacramento, CA 95814 ",,5054.0,9781.0,month,php,California,AIR POLLUTION SPECIALIST
+Pratt Industries,entry,"Stockton, CA 95215",3.2,16.0,17.0,hour,php,California,Machine Operators
+SQA²,entry,"Los Alamitos, CA",,29000.0,33000.0,year,php,California,Jr. QA Analyst Trainee
+"ScaleMatrix Holdings, Inc.",entry,"San Diego, CA 92123",,20.0,21.0,hour,php,California,Jr. Developer
+US Department of Health And Human Services,entry,"San Francisco, CA",4.1,64490.0,83840.0,year,php,California,Public Health Analyst
+Angeles Place LLC / beachkey,entry,"Venice, CA",,12.0,25.0,hour,php,California,Airbnb Host / Beachkey / Boat Tour Online Agent
+"University of California, Davis",entry,"Davis, CA 95616 ",4.2,23.66,47.51,hour,php,California,APPLICATIONS PROGR 2 (Programmer)
+Children's Council of SF,mid,"San Francisco, CA 94114 ",,55000.0,62000.0,year,php,California,Family Child Care – Quality Network Instructional Coach (Can...
+University of West Florida,mid,"Pensacola, FL",4.2,76574.0,76574.0,year,elasticsearch,Florida,Software Applications Engineer -108090
+LMS,mid,"Orlando, FL 32819 ",3.7,120000.0,120000.0,year,elasticsearch,Florida,"Middleware Infrastructure Engineer (Doral, FL)"
+LMS,mid,"Doral, FL 33172",3.7,120000.0,120000.0,year,elasticsearch,Florida,Middleware Infrastructure Engineer
+Hotwire Communications,mid,"Fort Lauderdale, FL 33309",3.0,100000.0,120000.0,year,elasticsearch,Florida,Senior .Net Developer
+accesso,mid,"Lake Mary, FL",3.8,60000.0,65000.0,year,elasticsearch,Florida,Site Reliability Engineer - Couchbase
+LMS,mid,"Orlando, FL 32885",3.7,120000.0,120000.0,year,elasticsearch,Florida,Middleware Infrastructure Engineer (Doral
+New York State Senate,mid,"Albany, NY",4.1,55000.0,85000.0,year,elasticsearch,New York,Java Web Developer
+Mentat,mid,"New York, NY",,120000.0,180000.0,year,elasticsearch,New York,Full Stack Engineer
+U.GG,mid,"Austin, TX 78704 ",5.0,110000.0,160000.0,year,elasticsearch,Texas,Backend Engineer
+Matthew Noah,mid,"Austin, TX",,130000.0,140000.0,year,elasticsearch,Texas,"SRE Engineer, Java, Golang, Dropwizard"
+Health & Human Services Comm,mid,"Austin, TX 78701 ",3.4,4301.0,6600.0,month,elasticsearch,Texas,Junior .Net Enterprise Developer
+Nesh,mid,"Houston, TX 77002 ",,80000.0,90000.0,year,elasticsearch,Texas,Backend Engineer
+Robots and Pencils,mid,"Austin, TX",,80000.0,130000.0,year,elasticsearch,Texas,Backend Developer
+Ascendo Resources,mid,"Mountain View, CA",3.3,80.0,100.0,hour,elasticsearch,California,Functional JavaScript Developer
+ITGen Systems,mid,"San Jose, CA",,140000.0,140000.0,year,elasticsearch,California,Sr. Data API Developer (Local & W2)
+Technology Credit Union,mid,"San Jose, CA",3.5,86200.0,137800.0,year,elasticsearch,California,Full Stack Engineer
+"Capture2, Inc.",mid,"San Diego, CA 92108",,100000.0,120000.0,year,elasticsearch,California,Full Stack Web Developer
+Surkus,mid,"Santa Monica, CA",3.0,120000.0,140000.0,year,elasticsearch,California,Senior Full-Stack Engineer (Ruby / Rails / Emberjs)
+NTENT,mid,"Carlsbad, CA 92008",3.5,124200.0,124200.0,year,elasticsearch,California,Software Engineer
+"Phytogenesis Labs, LLC",mid,"Lansing, MI 48917",,30000.0,75000.0,year,php,Michigan,Web Developer/Graphic Designer
+University of Michigan,mid,"Ann Arbor, MI 48109",4.3,57692.0,75000.0,year,php,Michigan,Application Developer Intermediate / Associate
+City of Pontiac,mid,"Pontiac, MI 48342",,20.0,22.0,hour,php,Michigan,Right of Way Inspector
+All Star Driver Education,mid,"Ann Arbor, MI 48103",3.9,50000.0,70000.0,year,php,Michigan,PHP and MySQL Developer - Ann Arbor MI
+"Great Lakes Database, LLC",mid,"Saugatuck, MI 49453",,48000.0,62000.0,year,php,Michigan,FileMaker Database Developer
+University of Michigan,mid,"Flint, MI 48502",4.3,50700.0,62000.0,year,php,Michigan,App Programmer / Analyst Inter
+Midway Dental Supply LLC,mid,"Livonia, MI 48150",,75000.0,90000.0,year,php,Michigan,Software Developer
+Willard Library,mid,"Battle Creek, MI 49017",4.4,48972.0,68143.0,year,php,Michigan,Computer Systems Librarian
+EccoSelect,mid,"Detroit, MI",,80000.0,100000.0,year,php,Michigan,Lead Web Developer
+Metropolitan Sewerage District,mid,"Asheville, NC 28804",,36769.0,56276.0,year,php,North Carolina,Electrical/ PLC Technician
+The Cedar Companies,mid,"Charlotte, NC",,40000.0,60000.0,year,php,North Carolina,Front End Web Developer/Designer
+nCino,mid,"Wilmington, NC 28405",4.3,90000.0,100000.0,year,php,North Carolina,Software Developer - cloud banking software
+Asheville-Buncombe Technical Community College,mid,"Asheville, NC",4.1,61248.0,63580.0,year,php,North Carolina,"Instructor, Information Technology (9-Month)"
+Jackrabbit Technologies,mid,"Huntersville, NC",4.5,80000.0,80000.0,year,php,North Carolina,Web Application Developer
+Intelligaia,mid,"Raleigh-Durham, NC",,50000.0,90000.0,year,php,North Carolina,UX/UI Designer
+Appalachian State University,mid,"Boone, NC",4.3,75000.0,90000.0,year,php,North Carolina,IT System Administrator II
+Prove,mid,"Durham, NC",,50.0,80.0,hour,php,North Carolina,B2B Ecommerce Technical Project Manager
+"LC America, Inc.",mid,"Colfax, NC 27235",,16.0,18.0,hour,php,North Carolina,Bookkeeper
+Sampson County Government,mid,"Clinton, NC",,59196.0,59196.0,year,php,North Carolina,Library Director
+Piper Companies,mid,"Raleigh, NC 27601",4.2,90000.0,100000.0,year,php,North Carolina,Full Stack Developer
+Fame Foundry,mid,"Charlotte, NC 28210 ",,40000.0,50000.0,year,php,North Carolina,Junior Web Designer & Front-End Developer
+Duuzra,mid,"Raleigh-Durham, NC",,80000.0,90000.0,year,php,North Carolina,Full Stack Developer
+LightSpeed Technology Group,mid,"Hillsborough, NC",,65000.0,100000.0,year,php,North Carolina,Mid-Level .NET Engineer
+Prove,mid,"Savannah, GA",,50.0,80.0,hour,php,Georgia,B2B Ecommerce Technical Project Manager
+AgencyMatrix,mid,"Duluth, GA",,50000.0,80000.0,year,php,Georgia,Senior Backend Developer
+Georgia College,mid,"Milledgeville, GA",4.1,40900.0,40900.0,year,php,Georgia,Systems Application Analyst
+Square One Creative Group,mid,"Covington, GA 30014",,2500.0,3500.0,month,php,Georgia,Creative Web Designer - Graphic Designer
+ATGWORK,mid,"Atlanta, GA",,45.0,53.0,hour,php,Georgia,User Experience Tester/Researcher/Web Designer
+Spalding County Board of Commissioners,mid,"Griffin, GA 30223",,33208.0,33208.0,year,php,Georgia,Administrative Assistant II
+Spalding County Board of Commissioners,mid,"Griffin, GA 30223",,46632.0,46632.0,year,php,Georgia,Citizen Engagement Specialist
+Columbus State University,mid,"Columbus, GA 31907",4.2,43503.0,48941.0,year,php,Georgia,Programmer I
+Centers for Disease Control and Prevention,mid,"Atlanta, GA 30307",4.2,129662.0,166500.0,year,php,Georgia,Health Scientist
+Prove,mid,"Atlanta, GA",,50.0,80.0,hour,php,Georgia,Magento 2.0 Project Manager
+ATLANTA LEGAL AID SOCIETY,mid,"Atlanta, GA 30303 ",4.8,44300.0,50800.0,year,php,Georgia,Human Resources Generalist
+GM Voices,mid,"Atlanta, GA",4.7,25.0,35.0,hour,php,Georgia,Full Stack Developer
+Builders Insurance,mid,"Atlanta, GA 30339",,100000.0,120000.0,year,php,Georgia,Programmer Analyst
+Centers for Disease Control and Prevention,mid,"Atlanta, GA 30307",4.2,110231.0,143304.0,year,php,Georgia,Lead Health Scientist (Data Scientist)
+MBM Records,mid,"Atlanta, GA",,20.0,28.0,hour,php,Georgia,Web Designer
+REPLI,mid,"Suwanee, GA 30024",,50000.0,80000.0,year,php,Georgia,Full Stack Web Developer
+Prescribe FIT,mid,"Columbus, OH 43215 ",,75000.0,90000.0,year,php,Ohio,Mid-Level Full Stack Software Engineer
+"WebsiteNEO, Inc",mid,"Tallmadge, OH 44278",,42000.0,58000.0,year,php,Ohio,Full Stack Web Developer
+COACT Associates,mid,"Toledo, OH 43617",,30000.0,35000.0,year,php,Ohio,Web Developer/Designer
+Wright State University,mid,"Dayton, OH",4.3,47000.0,47000.0,year,php,Ohio,Web Designer and Videographer
+"Adatasol, Inc.",mid,"Cleveland, OH",,70000.0,70000.0,year,php,Ohio,Senior FileMaker Developer
+American Trim,mid,"Sidney, OH 45365",3.6,72000.0,72000.0,year,php,Ohio,Programmer Anaylst
+American Heritage Girls,mid,"Cincinnati, OH 45246",4.7,22.0,24.0,hour,php,Ohio,Application Developer
+Merakey,mid,"Hamilton, OH 45011",3.1,20.0,22.0,hour,php,Ohio,Behavior Specialist (DDTT- IDD/Mental Health)
+Getronics,mid,"Mason, OH",3.6,24.0,25.0,hour,php,Ohio,Network Engineer (Associate Level)
+Ohio University,mid,"Athens, OH 45701",4.3,54000.0,62000.0,year,php,Ohio,Web Developer II
+First Step STNA Program,mid,"Lorain, OH 44052",,18.0,20.0,hour,php,Ohio,Nursing Instructor
+miniComfort,mid,"Akron, OH 44312",,35000.0,50000.0,year,php,Ohio,Web Designer
+National Youth Advocate Program,mid,"Toledo, OH",3.2,60000.0,65000.0,year,php,Ohio,Regional Manager
+Mid-Ohio Foodbank,mid,"Grove City, OH 43123",4.1,60000.0,70000.0,year,php,Ohio,Business Application Developer
+OppGenetix,mid,"Columbus, OH 43229 ",,30000.0,40000.0,year,php,Ohio,Jr. Front End Developer
+"WebsiteNEO, Inc",mid,"Tallmadge, OH 44278",,38000.0,48000.0,year,php,Ohio,Senior Full Stack Developer
+Graphet Inc,mid,"Cincinnati, OH 45255",,55000.0,75000.0,year,php,Ohio,Web Developer
+"Delta Media Group, Inc.",mid,"Canton, OH 44708",,45000.0,95000.0,year,php,Ohio,Full Stack Web Developer
+Fortech LLC,mid,"West Chester, OH 45069",,75000.0,125000.0,year,php,Ohio,Senior Web Developer
+Donovan Digital Solutions,mid,"Uniontown, OH 44685",,30000.0,45000.0,year,php,Ohio,Account Manager w/ Web Programming
+Merakey,mid,"Clarion, PA 16214",3.1,16.68,16.68,hour,php,Pennsylvania,Recovery Coordinator Mental Health & IDD
+Merakey,mid,"Lake Ariel, PA 18436",3.1,40.0,40.0,hour,php,Pennsylvania,Community Based Registered Nurse RN MH / IDD - PRN (as neede...
+Merakey,mid,"Bethlehem, PA 18017",3.1,30.32,30.32,hour,php,Pennsylvania,Community Based Registered Nurse RN MH / IDD (M-F / Days / N...
+"Computer Enterprises, Inc. (CEI)",mid,"Cranberry Township, PA",3.5,50.0,55.0,hour,php,Pennsylvania,"Sr. Java Developer - Enterprise web based apps, SOAP, JSON,..."
+Liberty Fox Tech,mid,"Huntingdon Valley, PA",,60000.0,78000.0,year,php,Pennsylvania,Intermediate Software Developer (Angular / ReactJS / Javascr...
+Collabrium Systems,mid,"Harrisburg, PA 17111",,93000.0,93000.0,year,php,Pennsylvania,LEAD WEB DEVELOPER
+Links Global,mid,"Philadelphia, PA 19104 ",3.5,65000.0,65000.0,year,php,Pennsylvania,Drupal 8 Web Designer
+Merakey,mid,"New Castle, PA 16101",3.1,16.45,16.45,hour,php,Pennsylvania,Community-based Recovery Coordinator (MH/IDD)
+SocialLadder,mid,"Philadelphia, PA",,45000.0,75000.0,year,php,Pennsylvania,Web/Graphics designer
+Angus Energy,mid,"Langhorne, PA",,25.0,35.0,hour,php,Pennsylvania,Web Application Developer
+Cima Software Corporation,mid,"North Hills, PA",,40000.0,40000.0,year,php,Pennsylvania,IT Software Application Support Professional
+eTek IT Service,mid,"Philadelphia, PA",,90000.0,110000.0,year,php,Pennsylvania,Full Stack Web Developer
+Merakey,mid,"Philadelphia, PA 19124 ",3.1,13.25,13.25,hour,php,Pennsylvania,Cook Full Time
+Mackin Engineering Company,mid,"Pittsburgh, PA 15275",,45000.0,55000.0,year,php,Pennsylvania,Software Developer
+Copter Labs,mid,"Philadelphia, PA",,75000.0,100000.0,year,php,Pennsylvania,React Web & Native Developer (Philly Based)
+Merakey,mid,"Philadelphia, PA 19144 ",3.1,31.67,31.67,hour,php,Pennsylvania,Registered Nurse RN Behavioral Health Part Time
+Intellidyne Business Systems,mid,"Collegeville, PA 19426",,80000.0,105000.0,year,php,Pennsylvania,Java C++ PHP--Developers 
+ReminderMedia,mid,"King of Prussia, PA 19406",3.9,70000.0,90000.0,year,php,Pennsylvania,PHP Software Developer
+College Township,mid,"State College, PA 16801",,70000.0,104000.0,year,php,Pennsylvania,Municipal Public Works Director
+Merakey,mid,"Bristol, PA 19007",3.1,18.76,18.76,hour,php,Pennsylvania,Blended Case Manager (48278)
+Lehigh Carbon Community College,mid,"Schnecksville, PA 18078",3.9,49334.0,66991.0,year,php,Pennsylvania,Web Application Developer
+IMG,mid,"Aliquippa, PA",,18.0,20.0,hour,php,Pennsylvania,Web Designer
+The Tactile Group,mid,"Philadelphia, PA 19107 ",,70000.0,85000.0,year,php,Pennsylvania,MySQL Database Developer
+The University of Pittsburgh,mid,"Pittsburgh, PA",4.2,26.0,26.0,hour,php,Pennsylvania,Moodle Administrator/Developer
+FamilyFarmed,mid,"Chicago, IL",,55000.0,60000.0,year,php,Illinois,"Senior Coordinator, Digital Communications & Technology"
+Cook County Sheriff’s Office,mid,"Chicago, IL 60608",3.6,95000.0,95000.0,year,php,Illinois,Mobile Web Application Developer
+Jettison,mid,"Oak Brook, IL",,120000.0,140000.0,year,php,Illinois,Lead Technical Developer
+Waubonsee Community College,mid,"Sugar Grove, IL",4.5,20.64,20.64,hour,php,Illinois,Web Designer
+Illinois Wesleyan University,mid,"Bloomington, IL 61701",4.4,53000.0,53000.0,year,php,Illinois,Web Developer
+"King Technology, Inc.",mid,"Springfield, IL 62701",,50000.0,80000.0,year,php,Illinois,Backend Web Developer
+Huxley,mid,"Chicago, IL 60606 ",,80000.0,100000.0,year,php,Illinois,C# Web Applications Developer- Trading Software
+InspiHER Tech,mid,"Chicago, IL",,110000.0,120000.0,year,php,Illinois,"ORACLE PL/SQL DEVELOPER, # 10545"
+FlavaWorks,mid,"Chicago, IL",,35.0,45.0,hour,php,Illinois,Full Stack Web Developer-Chicago
+Signature Homestyles,mid,"Itasca, IL",,50000.0,60000.0,year,php,Illinois,Marketing Manager
+Joliet Junior College,mid,"Joliet, IL 60431",4.1,48766.0,48766.0,year,php,Illinois,Web Developer
+The Minte,mid,"Chicago, IL 60654 ",,15.0,17.0,hour,php,Illinois,Housekeeper
+Chicago Water and Fire Restoration,mid,"Elmhurst, IL 60126",4.1,45000.0,75000.0,year,php,Illinois,Web Services Coordinator
+iService Auto,mid,"Hampshire, IL 60140",,25.0,40.0,hour,php,Illinois,Full Stack LAMP Developer
+Southern Illinois University Carbondale,mid,"Carbondale, IL",4.2,2580.0,2580.0,month,php,Illinois,Program Coordinator-NCAA Compliance
+Amphenol Fiber Optic Products,mid,"Lisle, IL 60532",,90000.0,100000.0,year,php,Illinois,IT Manager with ERP and SQL Experience
+Etech Hi,mid,"Troy, IL",,75000.0,110000.0,year,php,Illinois,Software Engineer
+Food & Water Watch,mid,"Chicago, IL",3.6,61700.0,87600.0,year,php,Illinois,Web Developer
+University of Rochester,mid,"Rochester, NY 14611 ",4.0,75000.0,85000.0,year,php,New York,Lead Analyst/Programmer
+Unlimited Tomorrow,mid,"Poughkeepsie, NY 12601",,70000.0,70000.0,year,php,New York,Full Stack Web Developer
+NoFraud,mid,"New York, NY",,120000.0,150000.0,year,php,New York,Technical Lead / Senior Developer (node.js and ROR)
+Mindex,mid,"Rochester, NY",,65000.0,95000.0,year,php,New York,Web Developer (JavaScript)
+New York City DEPARTMENT OF CITY PLANNING,mid,"Manhattan, NY",4.0,82008.0,95000.0,year,php,New York,Full Stack LAMP Developer
+Complex,mid,"New York, NY 10023 ",3.9,80000.0,115000.0,year,php,New York,Front-End Engineer (Web Developer)
+Callens Capital,mid,"Manhasset, NY 11030",,90000.0,120000.0,year,php,New York,Front End Developer with excellent design talent and skills
+Atlantic Crypto Corporation,mid,"New York, NY",,100000.0,140000.0,year,php,New York,Front End Developer with excellent design skills
+Twinco Manufacturing,mid,"Hauppauge, NY 11788",2.6,22.5,22.5,hour,php,New York,eCommerce - Graphic / Web Designer
+New York City Department of Education .,mid,"Brooklyn, NY 11236 ",4.0,85000.0,95317.0,year,php,New York,"Enterprise Management Engineer, DIIT"
+OPIN Software Inc.,mid,"Saratoga Springs, NY 12866",,42070.0,80900.0,year,php,New York,Software Engineer - Saratoga Springs
+PhotoShelter,mid,"New York, NY 10003 ",5.0,100000.0,150000.0,year,php,New York,Software Engineer (Back-End)
+Avancer Corporation,mid,"New York, NY",,160000.0,200000.0,year,php,New York,Lead Software Engineer Web Applications
+Source Enterprises,mid,"New York, NY",,100000.0,100000.0,year,php,New York,Cloud Engineer
+New York City FINANCIAL INFO SVCS AGENCY,mid,"Manhattan, NY",,75000.0,110000.0,year,php,New York,WEB APPLICATION DEVELOPER
+Top Solution Management,mid,"New York, NY",,120000.0,190000.0,year,php,New York,Senior Web App/HTML5 Developer
+Workforce Logiq,mid,"New Hyde Park, NY",2.8,60.0,70.0,hour,php,New York,Software Engineer II
+Ronik,mid,"Brooklyn, NY 11201",,70000.0,80000.0,year,php,New York,Full-Stack Web Developer
+Mayor's Office of Contract Services,mid,"Brooklyn, NY",,80000.0,130000.0,year,php,New York,"Senior Developer, MO for Economic Opportunity"
+Optiniche,mid,"New York, NY",,80000.0,90000.0,year,php,New York,Full Stack Engineer
+New York City OFFICE OF THE COMPTROLLER,mid,"Manhattan, NY",4.0,65000.0,80000.0,year,php,New York,IT and Security Auditor (3 positions)
+Cygnet Infotech Pvt. Ltd,mid,"New Hyde Park, NY",2.8,60.0,70.0,hour,php,New York,Software Engineer
+Redefined Corp,mid,"New York, NY",,44000.0,54000.0,year,php,New York,Web Designer
+That's Nice LLC,mid,"New York, NY 10003 ",,70000.0,80000.0,year,php,New York,Web Developer
+PhotoShelter,mid,"Manhattan, NY",5.0,100000.0,150000.0,year,php,New York,Software Engineer Front-End (Web)
+ExamTablesDirect.com,mid,"Farmingdale, NY 11735",,60000.0,130000.0,year,php,New York,Website Ecommerce Manager
+Museum of Chinese in America,mid,"New York, NY 10013 ",4.8,40000.0,45000.0,year,php,New York,Technology Manager
+The Equity Project Charter School,mid,"New York, NY",4.3,125000.0,125000.0,year,php,New York,Pre-K and 4th Grade Teacher - Music Specialist
+New York City MAYORS OFFICE OF CONTRACT SVCS,mid,"Brooklyn, NY",,80000.0,130000.0,year,php,New York,"Senior Developer, MO for Economic Opportunity"
+Akkadian Labs,mid,"New York, NY",4.0,110000.0,130000.0,year,php,New York,Software Engineer II (PHP)
+GAL Manufacturing Corp,mid,"Bronx, NY",4.0,18.0,20.0,hour,php,New York,Quality Inspector
+Prints Charming,mid,"Northport, NY 11768",,25.0,50.0,hour,php,New York,Web Programmer - Project Work (Hourly)
+TheMedias,mid,"New York, NY",,40000.0,40000.0,year,php,New York,ASP/PHP/SQL Developer & Tech Support Specialist
+The Equity Project Charter School,mid,"New York, NY",4.3,125000.0,125000.0,year,php,New York,Pre-K or 4th Grade Teacher - P.E. Specialist
+VetSourceUSA,mid,"Albany, NY",,90.0,95.0,hour,php,New York,PHP / Drupal Developer / Analyst
+Food & Water Watch,mid,"New York, NY",3.6,61700.0,87600.0,year,php,New York,Web Developer
+SKIP of New York,mid,"New York, NY 10001 ",2.8,60000.0,70000.0,year,php,New York,Junior Software Developer
+Independent Asian Newsmedia Company,mid,"Brooklyn, NY",,120000.0,140000.0,year,php,New York,Full Stack Developer
+Block Institute,mid,"Brooklyn, NY",3.3,58500.0,58500.0,year,php,New York,Residential Manager
+CSB Code School,mid,"Pembroke Pines, FL",,20.0,30.0,hour,php,Florida,Instructor for Web Developer Training Program
+Revelex Corporation,mid,"Boca Raton, FL 33487",3.5,70000.0,90000.0,year,php,Florida,SENIOR FRONT END WEB DEVELOPER
+CTI Consulting,mid,"Fort Lauderdale, FL",2.8,90000.0,110000.0,year,php,Florida,Credit Card Developer
+Links Global,mid,"Miami, FL 33125 ",3.5,65000.0,65000.0,year,php,Florida,Drupal 8 Web Designer
+Quenzel & Associates,mid,"Fort Myers, FL 33907",,22.0,22.0,hour,php,Florida,GRAPHIC DESIGN & WEBSITE DEVELOPMENT (WORDPRESS) - FORT MYER...
+MaxDream Corporation,mid,"Fort Lauderdale, FL",,60000.0,60000.0,year,php,Florida,Application Developer II
+"Elevux, LLC",mid,"Orlando, FL 32806",,15.0,18.0,hour,php,Florida,Web Developer
+Prove,mid,"Miami, FL",,50.0,80.0,hour,php,Florida,B2B Ecommerce Technical Project Manager
+University of Florida,mid,"Gainesville, FL 32611",4.3,50000.0,60000.0,year,php,Florida,Web Developer II
+Temperis,mid,"Miami, FL",,85000.0,85000.0,year,php,Florida,Technical Project Manager
+Prove,mid,"Largo, FL",,50.0,80.0,hour,php,Florida,B2B Ecommerce and Magento Technical Project Manager
+Correlative,mid,"Fort Lauderdale, FL",,20.0,30.0,hour,php,Florida,Cloud Software Engineer
+University of West Florida,mid,"Pensacola, FL",4.2,76574.0,76574.0,year,php,Florida,Software Applications Engineer - 113340
+King Of Sparklers,mid,"Miami, FL 33150",,80000.0,90000.0,year,php,Florida,PPC Specialist
+"Meridian Behavioral Healthcare, Inc.",mid,"Gainesville, FL 32608",3.1,12.97,12.97,hour,php,Florida,Financial Counselor
+"Newsmax Media, Inc.",mid,"Boca Raton, FL 33487",,85000.0,105000.0,year,php,Florida,Web Developer
+"Mako Marketing Group, LLC",mid,"Jupiter, FL",,55000.0,75000.0,year,php,Florida,Front-End Web Developer (HTML5/CSS3/WordPress)
+"Hillsborough County, FL",mid,"Tampa, FL",3.8,61464.0,98342.0,year,php,Florida,Web Developer
+Sure Plans,mid,"Fort Lauderdale, FL 33308 ",,350.0,1200.0,week,php,Florida,Web Sales Developer Partner
+Prove,mid,"Tampa, FL",,50.0,80.0,hour,php,Florida,B2B Ecommerce Web Project Manager
+A Sunny Start Preschool,mid,"Miami, FL 33134",,45000.0,55000.0,year,php,Florida,Regional Early Childhood Education Director
+United Systems and Software,mid,"Lake Mary, FL 32746",,65000.0,85000.0,year,php,Florida,Front-End Angular 7+ Web Developer
+Vivaticket,mid,"Orlando, FL 32811 ",,60000.0,66000.0,year,php,Florida,Cold Fusion Web Developer
+Optimum7,mid,"Miami, FL 33133 ",,40000.0,50000.0,year,php,Florida,Junior Front-end Developer/Designer
+INTERNATIONAL PAYOUT SYSTEMS,mid,"Fort Lauderdale, FL 33301 ",,100000.0,160000.0,year,php,Florida,Software Developer
+UF Health Shands Hospital,mid,"Gainesville, FL",4.1,21.09,21.09,hour,php,Florida,Supvisor Operations Florida Recovery Center- FRC Substance A...
+Stimwave Technologies,mid,"Pompano Beach, FL 33064",,80000.0,100000.0,year,php,Florida,Senior PHP Developer
+Revelex Corporation,mid,"Boca Raton, FL 33487",3.5,80000.0,100000.0,year,php,Florida,SENIOR PHP DEVELOPER
+"eComSystems, LLC",mid,"Sarasota, FL 34240",,60000.0,70000.0,year,php,Florida,PHP Website Developer
+Hotwire Communications,mid,"Fort Lauderdale, FL 33309",3.0,85000.0,90000.0,year,php,Florida,PHP Developer
+Sourcetoad,mid,"Tampa, FL 33618",,60000.0,80000.0,year,php,Florida,PHP Developer
+PropLogix,mid,"Sarasota, FL",3.8,60000.0,80000.0,year,php,Florida,Senior Software Developer - PHP on Laravel
+"Paragon Automated Systems, Inc.",mid,"Pembroke Pines, FL",,60000.0,90000.0,year,php,Florida,Programmer/Developer
+The Big Easy Casino,mid,"Hallandale Beach, FL 33009",3.4,65000.0,70000.0,year,php,Florida,Graphic/Web Designer
+Florida Sheriffs Youth Ranches,mid,"Bradenton, FL",,17.19,17.19,hour,php,Florida,Business Manager I
+Broward MPO,mid,"Fort Lauderdale, FL",,75000.0,95000.0,year,php,Florida,Manager of City Services
+Manufacturing Company - Private,mid,"Orlando, FL",,36.0,42.0,hour,php,Florida,Robotics Engineer
+Broward MPO,mid,"Fort Lauderdale, FL",,55000.0,75000.0,year,php,Florida,Project Manager- two positions
+"Hillsborough County, Florida",mid,Florida,3.8,61464.0,98342.0,year,php,Florida,Web Developer
+RxLive,mid,"Tampa, FL",,75000.0,90000.0,year,php,Florida,Developer
+SPCA Tampa Bay,mid,"Largo, FL",3.1,65000.0,75000.0,year,php,Florida,Director of Philanthropy
+Revelex Corporation,mid,"Boca Raton, FL 33487",3.5,20.0,22.0,hour,php,Florida,TECH SUPPORT QA
+SPCA Tampa Bay,mid,"Largo, FL",3.1,100000.0,100000.0,year,php,Florida,Director of Shelter Medicine
+Tapp Network,mid,"Saint Petersburg, FL",,70000.0,70000.0,year,php,Florida,Senior Laravel Developer
+"City of Miami Beach, FL",mid,"Miami Beach, FL 33139",4.5,29.5,48.26,hour,php,Florida,"""Website Developer"" E-Government Administrator"
+Food & Water Watch,mid,"Miami, FL",3.6,61700.0,87600.0,year,php,Florida,Web Developer
+"Vultr Holdings, LLC.",mid,"West Palm Beach, FL",,80000.0,115000.0,year,php,Florida,Software Engineer - Platform - West Palm Beach
+Florida International University,mid,"Miami, FL",4.3,45000.0,45000.0,year,php,Florida,IT Generalist II
+Quality Biomedical,mid,"Largo, FL",,45000.0,50000.0,year,php,Florida,Product Specialist
+Energy Efficient Solutions LLC,mid,"Duncanville, TX 75137",,45000.0,70000.0,year,php,Texas,"Energy Efficiency Inside Sales & Marketing Associate, 2+ yrs..."
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Gainesville, TX 76240",3.1,3915.0,3915.0,month,php,Texas,TJJD - Mental Health Professional III / IV / V for Forensic...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Austin, TX 78758 ",3.1,4917.0,4917.0,month,php,Texas,TJJD - Management Analyst IV - Performance Improvement Lead...
+TEXAS DEPARTMENT OF PUBLIC SAFETY,mid,"Austin, TX",3.8,5259.0,5259.0,month,php,Texas,DPS - CS - Cyber Security DevOps Engineer
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Brownwood, TX 76801",3.1,3915.0,3915.0,month,php,Texas,TJJD - Mental Health Professional III / IV / V for Forensic...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Edinburg, TX",3.1,3915.0,3915.0,month,php,Texas,TJJD - Health Specialist III / IV / V-Mental Health Professi...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Mart, TX",3.1,4343.0,4343.0,month,php,Texas,TJJD - Lead Substance Abuse Counselor III - Alcohol or Other...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Brownwood, TX 76801",3.1,4343.0,4343.0,month,php,Texas,TJJD - Lead Substance Abuse Counselor III - Alcohol or Other...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Giddings, TX",3.1,4343.0,4343.0,month,php,Texas,TJJD - Lead Substance Abuse Counselor III - Alcohol or Other...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Edinburg, TX",3.1,4343.0,4343.0,month,php,Texas,TJJD - Lead Substance Abuse Counselor III - Alcohol or Other...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Gainesville, TX 76240",3.1,4343.0,4343.0,month,php,Texas,TJJD - Lead Substance Abuse Counselor III - Alcohol or Other...
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Giddings, TX",3.1,3915.0,3915.0,month,php,Texas,TJJD - Health Specialist III / IV / V-Mental Health Professi...
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,5000.0,5000.0,month,php,Texas,CPA- Expenditure Audit Data Analyst
+ZBS POS,mid,"Houston, TX",,40000.0,50000.0,year,php,Texas,"Full Stack Web Developer, Entry-level, Chinese Speaker"
+Integrated Business Technologies,mid,"San Antonio, TX 78249",4.0,40000.0,50000.0,year,php,Texas,Network Administrator
+Texas State University,mid,"San Marcos, TX 78666",4.4,6250.0,6250.0,month,php,Texas,Grant Specialist (Lead Programmer)
+Trax Technologies,mid,"Austin, TX 78727",3.3,90000.0,90000.0,year,php,Texas,Senior Software Engineer
+Ardent Creative Inc.,mid,"Dallas-Fort Worth, TX",,45000.0,55000.0,year,php,Texas,Mid-level Web Developer
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,6000.0,6000.0,month,php,Texas,CPA- CAPPS Project Mgr IV
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,6500.0,6500.0,month,php,Texas,CPA - CAPPS Time & Labor Deployment Analyst (Reopened and Am...
+Indeed,mid,"Austin, TX 78731",4.4,138000.0,174000.0,year,php,Texas,Staff Software Engineer - Search Quality
+General Dynamics Mission Systems,mid,"San Antonio, TX",3.7,80000.0,120000.0,year,php,Texas,Web Applications Developer
+"Robot Creative Management, LLC.",mid,"San Antonio, TX 78210 ",,65000.0,95000.0,year,php,Texas,Interactive Marketing Director
+Hardwood Bargains,mid,"Austin, TX",,60000.0,70000.0,year,php,Texas,Digital Marketing Manager - PPC
+Sunlux,mid,"Austin, TX 78733",,40000.0,55000.0,year,php,Texas,Front End Web Developer/Designer
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Austin, TX 78758 ",3.1,4599.0,4599.0,month,php,Texas,TJJD - Attorney II - Staff Attorney - (AUS) - 7619
+Indeed,mid,"Austin, TX 78731",4.4,52000.0,66000.0,year,php,Texas,Search Quality Operations Technical Analyst
+Collin Central Appraisal District,mid,"McKinney, TX 75069",3.7,60000.0,80000.0,year,php,Texas,SYSTEMS SUPPORT & WEB DEVELOPER
+Health & Human Services Comm,mid,"Austin, TX 78754",3.4,4917.0,8060.0,month,php,Texas,Java / Web Developer
+Arthur Grand Technologies Inc,mid,"Dallas, TX",,60.0,70.0,hour,php,Texas,Software Developer/Software Programmer
+Freedom Driven LLC,mid,"San Antonio, TX",,65000.0,75000.0,year,php,Texas,Laravel Developer
+Keto Krate,mid,"Austin, TX",,50000.0,80000.0,year,php,Texas,Senior Web Designer
+Boys & Girls Clubs of South Central Texas,mid,"San Marcos, TX 78666",,15.0,15.0,hour,php,Texas,Web Designer (Contractor)
+HMG Creative,mid,"Austin, TX 78704 ",,60000.0,90000.0,year,php,Texas,Backend Web Developer
+Indeed,mid,"Austin, TX 78731",4.4,58000.0,80000.0,year,php,Texas,Web Developer
+Patterson + Sheridan LLP,mid,"Houston, TX 77046 ",,85000.0,130000.0,year,php,Texas,Business Development & Marketing Manager
+Dura Software,mid,"San Antonio, TX",,48000.0,55000.0,year,php,Texas,Talent Acquisition Specialist/Recruiter
+University of Texas at Dallas,mid,"Richardson, TX 75080",4.4,43549.0,43549.0,year,php,Texas,Web Developer
+"Zinda Law Group, PLLC",mid,"Austin, TX 78759 ",4.0,70000.0,350000.0,year,php,Texas,"Lawyer: Dynamic, Driven & Passionate / Rapidly Growing Firm"
+Great American Business Products,mid,"Houston, TX 77040",3.8,60000.0,75000.0,year,php,Texas,Web Developer
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,6500.0,6500.0,month,php,Texas,CPA-Deployment HR-Systems Analyst VI
+Tire Profiles LLC,mid,"Irving, TX",,90000.0,110000.0,year,php,Texas,Software Development Manager
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,4600.0,4600.0,month,php,Texas,CPA- IT Security Analyst I
+University of Houston,mid,"Houston, TX",4.3,4463.0,5804.0,month,php,Texas,Lead Front-end Developer
+Classic Auto Air Manufacturing,mid,"Coppell, TX 75019",4.5,20.0,21.0,hour,php,Texas,WORDPRESS DEVELOPER/ DESIGNER
+Recruiters Network,mid,"Austin, TX",,85000.0,90000.0,year,php,Texas,Security Software Engineer
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,5700.0,5700.0,month,php,Texas,CPA- Appropriation Control Officer
+Bricolage Behavioral Health,mid,"Flower Mound, TX",,28.0,35.0,hour,php,Texas,Psychiatric Registered Nurse for PHP/IOP
+Emergence Health Network,mid,"El Paso, TX 79904 ",3.4,27238.0,39847.0,year,php,Texas,"Office Coordinator PHP - $27,238.00 - $39,847.00 Annually"
+"Hidalgo County, TX",mid,"Edinburg, TX",,87550.0,87550.0,year,php,Texas,"DIRECTOR, DOMESTIC RELATIONS OFFICE"
+TechPro,mid,"Austin, TX",,30.0,30.0,hour,php,Texas,Web/Software Applications Support Engineer
+Shockwave Consulting,mid,"Frisco, TX",,15.0,20.0,hour,php,Texas,Software/Web Developer
+TEXAS JUVENILE JUSTICE DEPARTMENT,mid,"Brownwood, TX 76801",3.1,3520.0,3520.0,month,php,Texas,TJJD - Program Supervisor III - Facility Program Monitor - (...
+Johnson Software and Technologies,mid,"Houston, TX",,30.0,30.0,hour,php,Texas,Web Designer
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,3300.0,3300.0,month,php,Texas,CPA-CAPPS Administrative Assistant
+COMPTROLLER OF PUBLIC ACCOUNTS,mid,"Austin, TX 78701 ",2.7,6500.0,6500.0,month,php,Texas,CPA-CAPPS Deployment ELM Analyst
+Wiser Media Group,mid,"San Diego, CA 92114",,13.5,15.0,hour,php,California,Web Designer
+"Capture2, Inc.",mid,"San Diego, CA 92108",,100000.0,120000.0,year,php,California,Full Stack Web Developer
+Los Angeles County Metropolitan Transportation Aut...,mid,"Los Angeles County, CA",4.0,84468.0,105560.0,year,php,California,WEB SYSTEMS DEVELOPER (TECHNICAL LEAD)
+Addison-Penzak JCC,mid,"Los Gatos, CA 95032",4.0,20.0,23.0,hour,php,California,Development and Admin Coordinator - Immediate - Full time!
+County of Riverside,mid,"Riverside, CA 92503",3.9,25.0,41.0,hour,php,California,Temporary IT Web Designer Developer II (P)
+CrowdRise,mid,"Los Angeles, CA",,1000.0,1000.0,month,php,California,"Senior Software Engineer, Full-stack - Payments"
+Windstone Health Services,mid,"Santa Ana, CA 92704",3.4,80000.0,85000.0,year,php,California,"Dir of Clinical Operations/Community Affairs (RN, lic PsyD)..."
+Animate Behavior,mid,"San Francisco Bay Area, CA",4.3,60000.0,85000.0,year,php,California,Clinical Supervisor (BCBA)
+Inseego,mid,"San Diego, CA 92121",3.5,92498.0,138748.0,year,php,California,Senior Software Engineer
+National Center for Lesbian Rights,mid,"San Francisco, CA 94102 ",,29.8,31.73,hour,php,California,Development Database Manager
+Mills College,mid,"Oakland, CA 94613 ",4.0,72000.0,72000.0,year,php,California,Associate Director of Financial Aid
+RaiseMe,mid,"San Francisco, CA",,23000.0,23000.0,year,php,California,Senior Data Scientist
+DiTec Solutions,mid,"Northridge, CA",,20.0,25.0,hour,php,California,Junior: IT Service and Support Technician/Web Developer
+Emet Digital,mid,"Encino, CA 91316",,60000.0,70000.0,year,php,California,"WordPress Developer, Google Analytics, and SEO Specialist"
+Judicial Council of California,mid,"San Francisco, CA",3.2,6389.0,6389.0,month,php,California,Business Systems Analyst - Web Producer
+RF inc.,mid,"Westminster, CA",,15.0,20.0,hour,php,California,Graphic and Web Designer
+SAN FERNANDO VALLEY COMMUNITY MENTAL HEALTH CENTER...,mid,"Van Nuys, CA 91405",,21.63,22.59,hour,php,California,Licensed Psychiatric Technician or Licensed Vocational Nurse...
+The Dictionary Project,mid,"San Diego, CA",,80000.0,100000.0,year,php,California,Full Stack Web Developer
+"University of California, Davis",mid,"Davis, CA 95616 ",4.2,60800.0,60800.0,year,php,California,APPLICATIONS PROGR 3 (Web Application Developer)
+Elocal Solutions,mid,"San Marcos, CA",4.0,40000.0,60000.0,year,php,California,Web Designer / Developer
+SkinSolutions.MD,mid,"San Diego, CA 92128",,85000.0,110000.0,year,php,California,Ecommerce Web Developer
+Addison-Penzak JCC,mid,"Los Gatos, CA 95032",4.0,80000.0,110000.0,year,php,California,Human Resources Director - Full Time - Immediate Opening!
+Girl Scouts of Greater Los Angeles,mid,"Los Angeles, CA 90017",4.1,55000.0,55000.0,year,php,California,"Constituents, Marketing and Design Specialist"
+Eight Horses,mid,"Santa Ana, CA",,14.0,17.0,hour,php,California,Looking for Part-time Web Developer
+Quad County HR,mid,"Fullerton, CA 92834",,50000.0,50000.0,year,php,California,Commerical Leasing/Planning Manager
+BetaSoft Inc.,mid,"Lake Forest, CA",,35.0,55.0,hour,php,California,Web Developer
+The Stand,mid,"Northridge, CA 91324",3.7,38000.0,41000.0,year,php,California,Assistant General Manager
+Kinetic Die Casting Company,mid,"North Hollywood, CA 91605",,16.0,25.0,hour,php,California,Die Casting Manager Assistant
+"Associated Reproduction Services, Inc.",mid,"Whittier, CA 90605",,80000.0,80000.0,year,php,California,.Net Web Programmer
+READY ARTWORK,mid,"Monrovia, CA 91016",3.0,50000.0,65000.0,year,php,California,Web Designer for Agency
+Twins Management LLC,mid,"San Dimas, CA",,70000.0,90000.0,year,php,California,Web Developer
+Los Angeles Superior Court,mid,"Los Angeles County, CA",4.3,7098.0,9566.0,month,php,California,Senior SharePoint Developer
+"NewRocket, Inc.",mid,"San Diego, CA",,70000.0,120000.0,year,php,California,Senior Front End Web Developer
+"Scelzi Enterprises, Inc.",mid,"Fresno, CA 93706",,17.0,20.0,hour,php,California,Production Systems Technician II
+The Arroyos Treatment Centers,mid,"Pasadena, CA",,17.0,17.0,hour,php,California,Predoctoral Psychological Assistant
+aiTWorks LLC,mid,"Beverly Hills, CA 90212",,26.0,90.0,hour,php,California,Software Engineer / Software Developer
+Alvarado Street Bakery,mid,"Petaluma, CA 94954",,22.0,28.0,hour,php,California,Maintenance Mechanic
+Ideation Consultancy,mid,"Torrance, CA",,45000.0,65000.0,year,php,California,Account/Creative Project Manager
+Freelancer.com,mid,"San Francisco, CA",4.1,70000.0,75000.0,year,php,California,Technical Sales Engineer
+Mega LED Technology,mid,"Commerce, CA 90040",,25.0,30.0,hour,php,California,Full Stack Web Developer
+Stealth,mid,"Los Angeles, CA",,70000.0,80000.0,year,php,California,Front End Web Developer
+"Monger Marketplace, SPC",mid,"Chico, CA",,70.0,80.0,hour,php,California,Senior Frontend (Browser Extension) Developer
+SAN FERNANDO VALLEY COMMUNITY MENTAL HEALTH CENTER...,mid,"Van Nuys, CA 91406",,50000.0,52000.0,year,php,California,Human Resources Benefits Specialist
+Inseego,mid,"San Diego, CA 92121",3.5,101350.0,152026.0,year,php,California,Staff Software Engineer
+Quad County HR,mid,"Midway City, CA 92655",,18.0,23.0,hour,php,California,Customer Service / Account Executive - Wholesale
+City of Oxnard,mid,"Oxnard, CA 93030",4.1,63401.0,98355.0,year,php,California,GIS Programmer Analyst
+Mackin Consultancy,mid,"Menlo Park, CA",3.7,75000.0,90000.0,year,php,California,Web Designer - CMS Specialist
+Children's Council of SF,mid,"San Francisco, CA 94114 ",,42000.0,44000.0,year,php,California,Child Care Resource and Referral (CCR&R II) Education and Ou...
+The Light Guys,mid,"Bakersfield, CA",,30.0,60.0,hour,php,California,Senior WordPress Developer
+Panini Kabob Grill (Woodland Hills),mid,"Los Angeles, CA",3.0,60000.0,65000.0,year,php,California,Restaurant Service Manager
+Covered California,mid,"Sacramento, CA",3.7,7014.0,9681.0,month,php,California,Lead Application Administrator
+Los Angeles Unified School District,mid,"Los Angeles, CA",4.1,36.08,36.08,hour,php,California,Network Operations Center Engineer
+Feedonomics,mid,"Woodland Hills, CA 91367",4.9,120000.0,150000.0,year,php,California,Senior Full Stack Engineer
+Food & Water Watch,mid,"Los Angeles, CA",3.6,61700.0,87600.0,year,php,California,Web Developer
+Girl Scouts of Greater Los Angeles,mid,"Los Angeles, CA 90015",4.1,80000.0,85000.0,year,php,California,Risk Manager
+Judicial Council of California,mid,"San Francisco, CA",3.2,6389.0,6389.0,month,php,California,Business Systems Analyst
+AvroKO Design LLC,mid,"San Francisco Bay Area, CA",,60000.0,70000.0,year,php,California,Office Manager
+Los Angeles Superior Court,mid,"Los Angeles County, CA",4.3,7098.0,9566.0,month,php,California,Lead Applications Engineer
+The Stand,mid,"Los Angeles, CA 90067",3.7,17.0,17.0,hour,php,California,Assistant Kitchen Managers Needed - Monday- Friday 9:00AM-5:...
+Local Data Exchange,mid,"San Diego, CA 92130",,70000.0,100000.0,year,php,California,Software Engineer
+Food & Water Watch,mid,"Los Angeles, CA",3.6,50000.0,69000.0,year,php,California,Foundation Coordinator
+Avintiv Media,mid,"Los Angeles, CA",,40000.0,65000.0,year,php,California,Front End Developer
+SafeRide Inc.,mid,"Culver City, CA 90232",,65000.0,70000.0,year,php,California,Quality Assurance Analyst
+Prove,mid,"Los Angeles, CA 90066",,60000.0,75000.0,year,php,California,Front-end HTML5/Javascript/CSS Developer
+IDIQ,mid,"Temecula, CA 92590",,55000.0,65000.0,year,php,California,Graphic and Web Designer
+Kett Engineering,mid,"Carson, CA",3.6,14.5,14.5,hour,php,California,"Driver - Brake Test Analyst - Carson, CA"
+"NewRocket, Inc.",mid,"San Diego, CA",,50000.0,100000.0,year,php,California,Front End Web Developer
+Heluna Health,mid,"Richmond, CA",4.0,16.82,19.23,hour,php,California,Employment/Education Specialist
+Codazen,mid,"Laguna Hills, CA 92653",,65000.0,96000.0,year,php,California,Web Developer (HTML/CSS)
+Feedonomics,mid,"Woodland Hills, CA 91367",4.9,120000.0,150000.0,year,php,California,Senior Full Stack Developer
+Kett Engineering,mid,"Sunnyvale, CA",3.6,100000.0,150000.0,year,php,California,Test Engineer - Software Diagnosis / Validation
+Quad County HR,mid,"Fullerton, CA 92834",,50000.0,50000.0,year,php,California,Event / Venue Booking and Commercial Leasing Agent
+The Regents of the University of California,mid,"Irvine, CA",3.8,56364.0,109883.0,year,php,California,Head of Digital Scholarship Services Department
+Feedonomics,mid,"Woodland Hills, CA 91367",4.9,120000.0,150000.0,year,php,California,Senior Software Engineer
+Johnson Software and Technologies,mid,"Los Angeles, CA",,30.0,30.0,hour,php,California,Web Designer
+Los Angeles Superior Court,mid,"Los Angeles County, CA",4.3,131024.0,198315.0,year,php,California,Deputy Director - Finance
+San Jose State University,mid,"San Jose, CA 95192 ",4.3,10478.0,10478.0,month,php,California,Mobile Application Developer
+Create Music Group,mid,"Los Angeles, CA 90079",,50000.0,80000.0,year,php,California,Data Developer
+Trinet Internet Solutions Inc.,mid,"Irvine, CA",4.3,26000.0,30000.0,year,php,California,DRUPAL/PHP Web Programmer (1152)
+Lawn Love,mid,"San Diego, CA 92127",3.4,80000.0,120000.0,year,php,California,Senior Software Engineer (PHP / Laravel)
+USC,mid,"Los Angeles, CA",4.2,36.09,36.09,hour,php,California,Web Developer
+pocket.watch,mid,"Culver City, CA 90232",,25.0,30.0,hour,php,California,WordPress Developer
+"California State University, Bakersfield",mid,"Bakersfield, CA 93311",4.3,4372.0,10478.0,month,php,California,WEB APPLICATION DEVELOPER
+"Cal Poly, San Luis Obispo",mid,"San Luis Obispo, CA 93407",4.2,85000.0,95000.0,year,php,California,Software Engineer
+Victor Valley College,mid,"Victorville, CA 92395",4.2,5425.0,5425.0,month,php,California,SENIOR WEB DEVELOPER
+Kett Engineering,mid,"Long Beach, CA",3.6,14.25,14.25,hour,php,California,"Test Driver - 3 shifts - Long Beach, CA"
+Bob's Watches,mid,"Newport Beach, CA 92660",,95000.0,105000.0,year,php,California,Front-End Developer
+AVID CENTER STAFF,mid,"San Diego, CA 92123",,95000.0,110000.0,year,php,California,Lead Developer
+Los Angeles Superior Court,mid,"Los Angeles County, CA",4.3,6608.0,8667.0,month,php,California,IT Case Management Systems Coordinator
+California Human Development,mid,"Santa Rosa, CA 95403",,65000.0,75000.0,year,php,California,Program Director - disAbility Services
+"New-Indy, Oxnard LLC",mid,"Oxnard, CA 93033",,34.59,35.9,hour,php,California,E&I Technician
+"Acumen Building Enterprise, Inc.",mid,"Oakland, CA 94602 ",,35.0,50.0,hour,php,California,Scheduler
+Cordial,mid,"San Diego, CA 92101",,25.0,35.0,hour,php,California,Web Developer/Designer (Contract Role)
+AP Logic,mid,"San Luis Obispo, CA",,70000.0,85000.0,year,php,California,.NET Web Software Engineer
+MAD Group Ad Agency,mid,"San Diego, CA 92103",,60000.0,85000.0,year,php,California,Frontend Wordpress Developer
+Speed to Contact,mid,"El Segundo, CA 90245",,80000.0,80000.0,year,php,California,PHP/Laravel Developer
+Feedonomics,mid,"Woodland Hills, CA 91367",4.9,120000.0,150000.0,year,php,California,Senior PHP Developer
+Feedonomics,mid,"Woodland Hills, CA 91367",4.9,120000.0,150000.0,year,php,California,Senior PHP Engineer
+Quilt,mid,"Los Angeles, CA",4.3,110000.0,150000.0,year,php,California,React PHP Developer (Full Stack)
+#directive,mid,"Temecula, CA",,129000.0,129000.0,year,php,California,Web Designer
+San Mateo County Community College District,mid,"San Mateo, CA 94402 ",3.9,102816.0,102816.0,year,php,California,Programmer Analyst
+Kett Engineering,mid,"Sunnyvale, CA",3.6,26.0,26.0,hour,php,California,Autonomous Vehicle Operator/Driver
+Noblr Insurance,mid,"San Francisco, CA",,70.0,80.0,hour,php,California,"Python Developer with PHP for Facebook, Palo Alto, Californi..."
+Wondersign,mid,California,3.9,90000.0,120000.0,year,php,California,Research and Development Software Engineer
+Cityspan,mid,"Berkeley, CA",,100000.0,150000.0,year,php,California,Software Engineer
+"Debt Pay Pro, Inc.",mid,"Schaumburg, IL",,80000.0,110000.0,year,elasticsearch,Illinois,Senior PHP Developer
+ficus Inc,mid,"Philadelphia, PA 19019 ",,75.0,80.0,hour,elasticsearch,Pennsylvania,Big Data/Hadoop Developer
+Dedicated Dev Forces,mid,"Philadelphia, PA",,95000.0,105000.0,year,elasticsearch,Pennsylvania,DevOps Engineer
+ReminderMedia,mid,"King of Prussia, PA 19406",3.9,70000.0,90000.0,year,elasticsearch,Pennsylvania,PHP Software Developer
+Nfinity LLC,mid,"Philadelphia, PA",4.2,150000.0,150000.0,year,elasticsearch,Pennsylvania,AWS DevOps Engineer
+Kognetics,mid,"Gahanna, OH",,101000.0,101000.0,year,elasticsearch,Ohio,Senior Data Engineer
+Saviynt,mid,"Atlanta, GA 30328",3.5,125000.0,175000.0,year,elasticsearch,Georgia,ElasticSearch Administrator
+LMS,mid,"Atlanta, GA 30303 ",3.7,120000.0,120000.0,year,elasticsearch,Georgia,"Middleware Infrastructure Engineer (Doral, FL)"
+Matrix Resources,mid,"Charlotte, NC 28262 ",4.0,52.79,52.79,hour,elasticsearch,North Carolina,AppDynamics Consultant
+Piper Companies,mid,"Raleigh, NC 27613 ",4.2,85000.0,100000.0,year,elasticsearch,North Carolina,Java Developer
+"Native American Industrial Solutions, LLC (NAIS)",mid,"Spring Lake, NC",,60000.0,140000.0,year,elasticsearch,North Carolina,Software Developer
+SignalPath,mid,"Raleigh, NC",,85000.0,105000.0,year,elasticsearch,North Carolina,Software Engineer
+Broward MPO,senior,"Fort Lauderdale, FL",,65000.0,85000.0,year,php,Florida,Senior City Transportation Planner
+University of South Florida,senior,"Tampa, FL",4.2,60000.0,75000.0,year,php,Florida,Senior ERP Analyst
+Bacarai,senior,"Orlando, FL 32819 ",,75000.0,100000.0,year,php,Florida,Senior Full Stack Developer
+St. Petersburg College,senior,"Clearwater, FL",4.2,70762.0,70762.0,year,php,Florida,Senior Technical Lead
+Orlando Utilities Commission,senior,"Orlando, FL",3.6,90438.0,118699.0,year,php,Florida,Sr Programmer Analyst (WEB)
+donato technologies,senior,"Pittsburgh, PA",,60.0,65.0,hour,php,Pennsylvania,Java Developer
+Collabrium Systems,senior,"Harrisburg, PA 17111",,66000.0,66000.0,year,php,Pennsylvania,SR. WEB DEVELOPER I
+Datanormus,senior,"Dublin, OH",,42000.0,42000.0,year,php,Ohio,Sr. PHP Developer
+"The Osborn Group, LLC",senior,"Cincinnati, OH 45211 ",,90000.0,115000.0,year,php,Ohio,Sr. Software Engineer
+Illumination Works LLC,senior,"Columbus, OH",,50.0,65.0,hour,php,Ohio,Sr. Software Developer
+VSG Commerce,senior,"Elgin, IL 60123",,84000.0,96000.0,year,php,Illinois,Senior Front End Developer
+CTG Consulting Group,senior,"Chicago, IL 60606 ",,50.0,50.0,hour,php,Illinois,Contract Senior Full-stack Web Developer
+Core 12 LLC,senior,"Chicago, IL 60607 ",,50000.0,80000.0,year,php,Illinois,Senior Web Developer
+jrd systems Inc.,senior,"Charlotte, NC",,100000.0,125000.0,year,php,North Carolina,Senior C++ Programmer
+Venteon,senior,"Livonia, MI",3.3,100000.0,100000.0,year,php,Michigan,Sr. Oracle DBA
+Crackajack Solutions,senior,"Auburn Hills, MI",,60.0,65.0,hour,php,Michigan,Sr.Web Developer - Front End
+American Technosys Inc,senior,"Detroit, MI",,110000.0,125000.0,year,php,Michigan,Enterprise Software Quality Architect
+Optime Tech,senior,"Benton Harbor, MI",,65.0,65.0,hour,php,Michigan,Sr Java Developer with Web API & Microservices
+Crackajack Solutions,senior,"Auburn Hills, MI",,60.0,65.0,hour,php,Michigan,Sr. Web Full-Stack Developer
+University of Michigan,senior,"Ann Arbor, MI 48109",4.3,64654.0,72003.0,year,php,Michigan,App Programmer / Analyst Sr
+"Stout Systems Development, Inc.",senior,"Ann Arbor, MI",,85000.0,110000.0,year,php,Michigan,"Senior Web Engineer - PHP, JavaScript and MySql (2910-IN)"
+Professional Employment Group of Colorado,senior,"Detroit, MI",,60.0,65.0,hour,php,Michigan,Sr. Web Services Developer (Full-Stack)
+Purple Drive Technologies,senior,"San Francisco, CA",,100000.0,160000.0,year,elasticsearch,California,Machine Learning Engineer
+Dray Alliance,senior,"Long Beach, CA",,120000.0,160000.0,year,elasticsearch,California,"Senior Software Engineer (Backend, Node.js)"
+Pro-Tech Consulting Inc.,senior,"Buffalo, NY",,70000.0,80000.0,year,php,New York,"Programmer / VB, .NET, C#"
+Proper Cloth,senior,"New York, NY 10013 ",5.0,80000.0,140000.0,year,php,New York,Senior Back End Developer (PHP)
+New York City DEPT OF INFO TECH & TELECOMM,senior,"Brooklyn, NY",3.8,135000.0,135000.0,year,php,New York,IT Architect
+Desh Technology Inc.,senior,"New York, NY",,70000.0,120000.0,year,php,New York,Sr. Full Stack Developer
+Tek9 Solutions,senior,"Dallas, TX",,50.0,50.0,hour,php,Texas,Sr. Fullstack Java Developer
+National Computer Systems,senior,"Mountain View, CA",3.9,60.0,65.0,hour,php,California,"Senior Web Backend JAVA Engineer (Java, Web Services, Big Da..."
+The Sage Group,senior,"San Francisco, CA",,120000.0,135000.0,year,php,California,Sr. Front End Web Developer
+Vichara,senior,"Los Angeles, CA 90071",,160000.0,160000.0,year,php,California,Development Manager - .NET SQL
+UC San Diego,senior,"San Diego, CA",4.3,5800.0,6700.0,month,php,California,Sr. Applications Programmer (Contract)
+Review Wave,senior,"Irvine, CA",,80000.0,120000.0,year,php,California,Rockstar Senior Level Full Stack PHP/JavaScript Developer
+SabrePC,senior,"Milpitas, CA",,85000.0,95000.0,year,php,California,Senior Web Developer
+Bluemark,senior,"Valencia, CA 91355",,50000.0,60000.0,year,php,California,Senior Web Designer
+TechnoPark Corp.,senior,"Sunnyvale, CA",,120000.0,120000.0,year,php,California,CEO wanted
+Court Buddy,senior,"San Francisco, CA",,120000.0,140000.0,year,php,California,Senior Software Engineer
+Request Technology,mid,"Chicago, IL",,120000.0,140000.0,year,elasticsearch,Illinois,Full Stack Developer (Cybersecurity Operation)
+Tiger Lilies Consulting,senior,"New York, NY 10036",,75000.0,130000.0,year,elasticsearch,New York,Full Stack .Net Developer (Junior - Mid)
+Tiger Lilies Consulting,senior,"New York, NY 10036",,80000.0,130000.0,year,elasticsearch,New York,Mid - Senior .NET Full Stack Developer
+Argus Information & Advisory Services,senior,"White Plains, NY",3.8,125000.0,200000.0,year,elasticsearch,New York,Senior DevOps Engineer
+Enterprise Peak,senior,"Chicago, IL",3.8,180000.0,180000.0,year,elasticsearch,Illinois,Senior Scala Developer
+Jobot,senior,"Raleigh, NC 27607 ",5.0,100000.0,150000.0,year,elasticsearch,North Carolina,Senior Big Data Engineer
