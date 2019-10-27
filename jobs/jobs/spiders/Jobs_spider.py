@@ -13,8 +13,8 @@ class JobsSpider(Spider):
         # 3 levels
         levels = ['entry', 'mid', 'senior']
 
-        # 20 popular skills
-        skills = ['java', 'python', 'r analysis', 'sql', 'hadoop', 'spark', 'c#', 'c++', 'javascript', 'angular', 'node.js', 'linux', 'tensorflow', 'kubernetes', 'docker', 'android', 'ios', 'aws', 'azure', 'kafka']
+        # 24 popular skills
+        skills = ['java', 'python', 'r analytics', 'sql', 'hadoop', 'spark', 'c#', 'c++', 'javascript', 'angular', 'node.js', 'linux', 'tensorflow', 'kubernetes', 'docker', 'android', 'ios', 'aws', 'azure', 'kafka', 'vb', 'olap', 'scala', 'golang']
         
         # 10 largest states
         states = ['California', 'Texas', 'Florida', 'New York', 'Illinois', 'Pennsylvania', 'Ohio', 'Georgia', 'North Carolina', 'Michigan']
@@ -86,7 +86,7 @@ class JobsSpider(Spider):
                 print('Error Text: ' + salary)
                 raise ValueError('Cannot parse salary text.')
 
-            salary = salary.replace(',', '').replace(' ','').replace('$', '').replace('++', '').replace('From', '')
+            salary = salary.replace(',', '').replace(' ','').replace('$', '').replace('++', '').replace('From', '').replace('Upto', '')
             
             if '-' in salary:
                 salary_all = salary.split('-')
